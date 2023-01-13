@@ -9,6 +9,10 @@ public class Wizard extends Character implements Attacker {
         setIntelligence(intelligence);
     }
 
+    public Wizard(String name) {
+        super(name);
+    }
+
     public int getMana() {
         return mana;
     }
