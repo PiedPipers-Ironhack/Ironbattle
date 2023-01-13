@@ -11,6 +11,8 @@ public class Warrior extends Character implements Attacker {
 
     public Warrior(String name) {
         super(name);
+        setStamina(stamina);
+        setStrength(strength);
     }
 
     public int getStamina() {
@@ -18,7 +20,7 @@ public class Warrior extends Character implements Attacker {
     }
 
     public void setStamina(int stamina) {
-        this.stamina = stamina;
+        this.stamina = (int) (Math.random() * 40 + 10);
     }
 
     public int getStrength() {
@@ -26,7 +28,7 @@ public class Warrior extends Character implements Attacker {
     }
 
     public void setStrength(int strength) {
-        this.strength = strength;
+        this.strength = (int) (Math.random() * 9 + 1);
     }
 
     @Override
