@@ -9,6 +9,13 @@ public class Character {
         setHp(hp);
     }
 
+    public Character(String name) {
+        setName(name);
+        if (this instanceof Warrior) this.hp = (int)(Math.random() * 100 + 100);
+        else if (this instanceof Wizard) this.hp = (int)(Math.random() * 50 + 50);
+        else setHp(hp);
+    }
+
     public String getId() {
         return id;
     }

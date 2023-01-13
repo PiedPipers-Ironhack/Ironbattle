@@ -9,6 +9,10 @@ public class Warrior extends Character implements Attacker {
         setStrength(strength);
     }
 
+    public Warrior(String name) {
+        super(name);
+    }
+
     public int getStamina() {
         return stamina;
     }
