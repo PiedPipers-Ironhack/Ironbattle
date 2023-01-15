@@ -11,9 +11,7 @@ public class Character {
 
     public Character(String name) {
         setName(name);
-        if (this instanceof Warrior) this.hp = (int)(Math.random() * 100 + 100);
-        else if (this instanceof Wizard) this.hp = (int)(Math.random() * 50 + 50);
-        else setHp(hp);
+        setHp(hp);
     }
 
     public String getId() {
@@ -38,6 +36,7 @@ public class Character {
 
     public void setHp(int hp) {
         this.hp = hp;
+
     }
 
     public boolean isAlive() {

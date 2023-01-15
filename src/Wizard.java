@@ -15,6 +15,10 @@ public class Wizard extends Character implements Attacker {
         setIntelligence(intelligence);
     }
 
+    public void setHp(int hp) {
+        super.setHp(49 + (int) Math.ceil(Math.random() * 51));
+    }
+
     public int getMana() {
         return mana;
     }

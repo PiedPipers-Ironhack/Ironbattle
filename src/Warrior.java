@@ -8,7 +8,9 @@ public class Warrior extends Character implements Attacker {
         setStamina(stamina);
         setStrength(strength);
     }
-
+    public void setHp(int hp) {
+        super.setHp(99 + (int) Math.ceil(Math.random() * 101));
+    }
     public Warrior(String name) {
         super(name);
         setStamina(stamina);
