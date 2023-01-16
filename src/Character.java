@@ -36,7 +36,9 @@ public class Character {
 
     public void setHp(int hp) {
         this.hp = hp;
-
+    }
+    public void setHpInAttack(int hp){
+        this.hp = hp;
     }
 
     public boolean isAlive() {

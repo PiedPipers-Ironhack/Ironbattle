@@ -1,4 +1,4 @@
 public interface Attacker {
-    void attack(Character character);
+    int attack(Character character);
 
 }

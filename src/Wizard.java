@@ -17,6 +17,7 @@ public class Wizard extends Character implements Attacker {
 
     public void setHp(int hp) {
         super.setHp(49 + (int) Math.ceil(Math.random() * 51));
+
     }
 
     public int getMana() {
@@ -36,7 +37,13 @@ public class Wizard extends Character implements Attacker {
     }
 
     @Override
-    public void attack(Character character) {
+    public int attack(Character character) {
 
+        int resultHp = character.getHp() - this.intelligence;
+        //System.out.println("character hp: " + character.getHp());
+        //System.out.println("intelligence: " + this.intelligence);
+        //System.out.println("result hp: " + resultHp);
+        character.setHpInAttack(resultHp);
+        return character.getHp();
     }
 }

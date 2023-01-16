@@ -10,7 +10,10 @@ public class Warrior extends Character implements Attacker {
     }
     public void setHp(int hp) {
         super.setHp(99 + (int) Math.ceil(Math.random() * 101));
+
     }
+
+
     public Warrior(String name) {
         super(name);
         setStamina(stamina);
@@ -33,8 +36,12 @@ public class Warrior extends Character implements Attacker {
         this.strength = (int) (Math.random() * 9 + 1);
     }
 
-    @Override
-    public void attack(Character character) {
 
+    @Override
+    public int attack(Character character) {
+
+        int resultHp = character.getHp() - this.strength;
+        character.setHpInAttack(resultHp);
+        return character.getHp();
     }
 }
