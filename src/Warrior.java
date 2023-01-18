@@ -41,9 +41,9 @@ public class Warrior extends Character implements Attacker {
 
     @Override
     public String toString() {
-        return Warrior.super.toString() + "\n" + "Character class: Warrior ," +
-                "stamina: " + stamina +
-                ", strength: " + strength + "\n" + "=====================";
+        return Warrior.super.toString() + "\n" + "Character Class: Warrior ," +
+                "Stamina: " + stamina +
+                ", Strength: " + strength + "\n" + "=====================";
     }
 
     @Override

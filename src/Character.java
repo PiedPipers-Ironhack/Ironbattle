@@ -55,5 +55,7 @@ public class Character {
                 ", hp: " + hp +
                 ", isAlive: " + isAlive + " ";
     }
+
+
 }
 

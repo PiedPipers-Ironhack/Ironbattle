@@ -1,9 +1,9 @@
-Character id: 286b196e-b2ba-4037-9bfa-3cb420481bc2, name: John, hp: 132, isAlive: true 
-Character class: Warrior ,stamina: 41, strength: 3
+Character id: f0433a68-bf57-4a8a-adc6-6863f221c9fa, name: John, hp: 134, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 7
 =====================
-Character id: 2617b799-5b37-40ac-822c-2d78d7b55ee4, name: voldemort, hp: 78, isAlive: true 
-Character class: Warrior ,mana: 36, intelligence: 21
+Character id: 9aad59ba-4150-4449-a41c-25688a41ae87, name: Voldemort, hp: 89, isAlive: true 
+Character Class: Wizard ,Mana: 14, Intelligence: 39
 =====================
-voldemort has attacked with a Staff Hit his mana has reduced to 37
-John was attacked and his HP in now 130
+John has attacked with a Weak Attack, his Stamina is now 30
+Voldemort was attacked and his HP in now 86
 =====================

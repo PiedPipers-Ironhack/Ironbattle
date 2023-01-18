@@ -57,7 +57,7 @@ public class Wizard extends Character implements Attacker {
             character.setHpInAttack(resultHp);
             setManaInAttack(this.mana+1);
             //System.out.println(getName() + " has attacked with a Staff Hit, his Mana has reduced to " + this.mana);
-            return getName() + " has attacked with a Staff Hit his mana has reduced to " + this.mana + "\n" + character.getName() + " was attacked and his HP in now " + character.getHp() + "\n" + "=====================";
+            return getName() + " has attacked with a Staff Hit, his mana has reduced to " + this.mana + "\n" + character.getName() + " was attacked and his HP in now " + character.getHp() + "\n" + "=====================";
 
         } else if (getMana() < 1) {
             setManaInAttack(this.mana+ 2);
@@ -70,8 +70,8 @@ public class Wizard extends Character implements Attacker {
 
     @Override
     public String toString() {
-        return Wizard.super.toString() + "\n" + "Character class: Warrior ," +
-                "mana: " + mana +
-                ", intelligence: " + intelligence + "\n" + "=====================";
+        return Wizard.super.toString() + "\n" + "Character Class: Wizard ," +
+                "Mana: " + mana +
+                ", Intelligence: " + intelligence + "\n" + "=====================";
     }
 }
