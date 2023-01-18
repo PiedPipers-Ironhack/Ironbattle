@@ -27,6 +27,13 @@ public class Warrior extends Character implements Attacker {
     public void setStamina(int stamina) {
         this.stamina = (int) (Math.random() * 40 + 10);
     }
+    // Control input stamina
+    /*public void setStamina(int stamina){
+        if (stamina < 10 || stamina > 50){
+            throw new IllegalArgumentException("Stamina should be between 10 and 50");
+        }
+        this.stamina = stamina;
+    }*/
     public void setStaminaInAttack(int stamina){
         this.stamina = stamina;
     }

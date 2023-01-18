@@ -1,145 +1,73 @@
-Character id: 07582a6d-19f0-4f27-89a9-d94d1f5532e2, name: John Attacker, hp: 117, isAlive: true 
-Character Class: Warrior ,Stamina: 22, Strength: 5
+Character id: 8abd706c-1edf-47ae-a920-8af3f95a237d, name: Summer, hp: 96, isAlive: true 
+Character Class: Wizard ,Mana: 45, Intelligence: 16
 =====================
-Character id: 72ee1205-f218-41c2-8209-c8643f12e76a, name: Voldemort, hp: 83, isAlive: true 
-Character Class: Wizard ,Mana: 22, Intelligence: 38
+Character id: 7321936d-9578-4dd9-8f1d-eb31d900333f, name: Orchestra, hp: 50, isAlive: true 
+Character Class: Wizard ,Mana: 35, Intelligence: 30
 =====================
-John Attacker has attacked with a Weak Attack, his Stamina is now 23
-Voldemort was attacked and his HP in now 81
+Summer has attacked with a Staff Hit, his mana has reduced to 46
+Orchestra was attacked and his HP in now 48
 =====================
-Character id: 72ee1205-f218-41c2-8209-c8643f12e76a, name: Voldemort, hp: 81, isAlive: true 
-Character Class: Wizard ,Mana: 22, Intelligence: 38
+Character id: 7321936d-9578-4dd9-8f1d-eb31d900333f, name: Orchestra, hp: 48, isAlive: true 
+Character Class: Wizard ,Mana: 35, Intelligence: 30
 =====================
-Character id: 07582a6d-19f0-4f27-89a9-d94d1f5532e2, name: John Attacker, hp: 117, isAlive: true 
-Character Class: Warrior ,Stamina: 23, Strength: 5
+Character id: 8abd706c-1edf-47ae-a920-8af3f95a237d, name: Summer, hp: 96, isAlive: true 
+Character Class: Wizard ,Mana: 46, Intelligence: 16
 =====================
-Voldemort has attacked with a Staff Hit, his mana has reduced to 23
-John Attacker was attacked and his HP in now 115
+Orchestra has attacked with a Fireball, his Mana has reduced to 30
+Summer was attacked and his HP in now 66
 =====================
-Character id: 07582a6d-19f0-4f27-89a9-d94d1f5532e2, name: John Attacker, hp: 115, isAlive: true 
-Character Class: Warrior ,Stamina: 23, Strength: 5
+Character id: 8abd706c-1edf-47ae-a920-8af3f95a237d, name: Summer, hp: 66, isAlive: true 
+Character Class: Wizard ,Mana: 46, Intelligence: 16
 =====================
-Character id: 72ee1205-f218-41c2-8209-c8643f12e76a, name: Voldemort, hp: 81, isAlive: true 
-Character Class: Wizard ,Mana: 23, Intelligence: 38
+Character id: 7321936d-9578-4dd9-8f1d-eb31d900333f, name: Orchestra, hp: 48, isAlive: true 
+Character Class: Wizard ,Mana: 30, Intelligence: 30
 =====================
-John Attacker has attacked with a Weak Attack, his Stamina is now 24
-Voldemort was attacked and his HP in now 79
+Summer has attacked with a Fireball, his Mana has reduced to 41
+Orchestra was attacked and his HP in now 32
 =====================
-Character id: 72ee1205-f218-41c2-8209-c8643f12e76a, name: Voldemort, hp: 79, isAlive: true 
-Character Class: Wizard ,Mana: 23, Intelligence: 38
+Character id: 7321936d-9578-4dd9-8f1d-eb31d900333f, name: Orchestra, hp: 32, isAlive: true 
+Character Class: Wizard ,Mana: 30, Intelligence: 30
 =====================
-Character id: 07582a6d-19f0-4f27-89a9-d94d1f5532e2, name: John Attacker, hp: 115, isAlive: true 
-Character Class: Warrior ,Stamina: 24, Strength: 5
+Character id: 8abd706c-1edf-47ae-a920-8af3f95a237d, name: Summer, hp: 66, isAlive: true 
+Character Class: Wizard ,Mana: 41, Intelligence: 16
 =====================
-Voldemort has attacked with a Staff Hit, his mana has reduced to 24
-John Attacker was attacked and his HP in now 113
+Orchestra has attacked with a Fireball, his Mana has reduced to 25
+Summer was attacked and his HP in now 36
 =====================
-Character id: 07582a6d-19f0-4f27-89a9-d94d1f5532e2, name: John Attacker, hp: 113, isAlive: true 
-Character Class: Warrior ,Stamina: 24, Strength: 5
+Character id: 8abd706c-1edf-47ae-a920-8af3f95a237d, name: Summer, hp: 36, isAlive: true 
+Character Class: Wizard ,Mana: 41, Intelligence: 16
 =====================
-Character id: 72ee1205-f218-41c2-8209-c8643f12e76a, name: Voldemort, hp: 79, isAlive: true 
-Character Class: Wizard ,Mana: 24, Intelligence: 38
+Character id: 7321936d-9578-4dd9-8f1d-eb31d900333f, name: Orchestra, hp: 32, isAlive: true 
+Character Class: Wizard ,Mana: 25, Intelligence: 30
 =====================
-John Attacker has attacked with a Weak Attack, his Stamina is now 25
-Voldemort was attacked and his HP in now 77
+Summer has attacked with a Fireball, his Mana has reduced to 36
+Orchestra was attacked and his HP in now 16
 =====================
-Character id: 72ee1205-f218-41c2-8209-c8643f12e76a, name: Voldemort, hp: 77, isAlive: true 
-Character Class: Wizard ,Mana: 24, Intelligence: 38
+Character id: 7321936d-9578-4dd9-8f1d-eb31d900333f, name: Orchestra, hp: 16, isAlive: true 
+Character Class: Wizard ,Mana: 25, Intelligence: 30
 =====================
-Character id: 07582a6d-19f0-4f27-89a9-d94d1f5532e2, name: John Attacker, hp: 113, isAlive: true 
-Character Class: Warrior ,Stamina: 25, Strength: 5
+Character id: 8abd706c-1edf-47ae-a920-8af3f95a237d, name: Summer, hp: 36, isAlive: true 
+Character Class: Wizard ,Mana: 36, Intelligence: 16
 =====================
-Voldemort has attacked with a Staff Hit, his mana has reduced to 25
-John Attacker was attacked and his HP in now 111
+Orchestra has attacked with a Staff Hit, his mana has reduced to 26
+Summer was attacked and his HP in now 34
 =====================
-Character id: 07582a6d-19f0-4f27-89a9-d94d1f5532e2, name: John Attacker, hp: 111, isAlive: true 
-Character Class: Warrior ,Stamina: 25, Strength: 5
+Character id: 8abd706c-1edf-47ae-a920-8af3f95a237d, name: Summer, hp: 34, isAlive: true 
+Character Class: Wizard ,Mana: 36, Intelligence: 16
 =====================
-Character id: 72ee1205-f218-41c2-8209-c8643f12e76a, name: Voldemort, hp: 77, isAlive: true 
-Character Class: Wizard ,Mana: 25, Intelligence: 38
+Character id: 7321936d-9578-4dd9-8f1d-eb31d900333f, name: Orchestra, hp: 16, isAlive: true 
+Character Class: Wizard ,Mana: 26, Intelligence: 30
 =====================
-John Attacker has attacked with a Heavy Attack, his Stamina is now 20
-Voldemort was attacked and his HP in now 72
+Summer has attacked with a Fireball, his Mana has reduced to 31
+Orchestra was attacked and his HP in now 0
 =====================
-Character id: 72ee1205-f218-41c2-8209-c8643f12e76a, name: Voldemort, hp: 72, isAlive: true 
-Character Class: Wizard ,Mana: 25, Intelligence: 38
+Character id: 7321936d-9578-4dd9-8f1d-eb31d900333f, name: Orchestra, hp: 0, isAlive: true 
+Character Class: Wizard ,Mana: 26, Intelligence: 30
 =====================
-Character id: 07582a6d-19f0-4f27-89a9-d94d1f5532e2, name: John Attacker, hp: 111, isAlive: true 
-Character Class: Warrior ,Stamina: 20, Strength: 5
+Character id: 8abd706c-1edf-47ae-a920-8af3f95a237d, name: Summer, hp: 34, isAlive: true 
+Character Class: Wizard ,Mana: 31, Intelligence: 16
 =====================
-Voldemort has attacked with a Staff Hit, his mana has reduced to 26
-John Attacker was attacked and his HP in now 109
+Orchestra has attacked with a Staff Hit, his mana has reduced to 27
+Summer was attacked and his HP in now 32
 =====================
-Character id: 07582a6d-19f0-4f27-89a9-d94d1f5532e2, name: John Attacker, hp: 109, isAlive: true 
-Character Class: Warrior ,Stamina: 20, Strength: 5
-=====================
-Character id: 72ee1205-f218-41c2-8209-c8643f12e76a, name: Voldemort, hp: 72, isAlive: true 
-Character Class: Wizard ,Mana: 26, Intelligence: 38
-=====================
-John Attacker has attacked with a Weak Attack, his Stamina is now 21
-Voldemort was attacked and his HP in now 70
-=====================
-Character id: 72ee1205-f218-41c2-8209-c8643f12e76a, name: Voldemort, hp: 70, isAlive: true 
-Character Class: Wizard ,Mana: 26, Intelligence: 38
-=====================
-Character id: 07582a6d-19f0-4f27-89a9-d94d1f5532e2, name: John Attacker, hp: 109, isAlive: true 
-Character Class: Warrior ,Stamina: 21, Strength: 5
-=====================
-Voldemort has attacked with a Fireball, his Mana has reduced to 21
-John Attacker was attacked and his HP in now 71
-=====================
-Character id: 07582a6d-19f0-4f27-89a9-d94d1f5532e2, name: John Attacker, hp: 71, isAlive: true 
-Character Class: Warrior ,Stamina: 21, Strength: 5
-=====================
-Character id: 72ee1205-f218-41c2-8209-c8643f12e76a, name: Voldemort, hp: 70, isAlive: true 
-Character Class: Wizard ,Mana: 21, Intelligence: 38
-=====================
-John Attacker has attacked with a Weak Attack, his Stamina is now 22
-Voldemort was attacked and his HP in now 68
-=====================
-Character id: 72ee1205-f218-41c2-8209-c8643f12e76a, name: Voldemort, hp: 68, isAlive: true 
-Character Class: Wizard ,Mana: 21, Intelligence: 38
-=====================
-Character id: 07582a6d-19f0-4f27-89a9-d94d1f5532e2, name: John Attacker, hp: 71, isAlive: true 
-Character Class: Warrior ,Stamina: 22, Strength: 5
-=====================
-Voldemort has attacked with a Fireball, his Mana has reduced to 16
-John Attacker was attacked and his HP in now 33
-=====================
-Character id: 07582a6d-19f0-4f27-89a9-d94d1f5532e2, name: John Attacker, hp: 33, isAlive: true 
-Character Class: Warrior ,Stamina: 22, Strength: 5
-=====================
-Character id: 72ee1205-f218-41c2-8209-c8643f12e76a, name: Voldemort, hp: 68, isAlive: true 
-Character Class: Wizard ,Mana: 16, Intelligence: 38
-=====================
-John Attacker has attacked with a Weak Attack, his Stamina is now 23
-Voldemort was attacked and his HP in now 66
-=====================
-Character id: 72ee1205-f218-41c2-8209-c8643f12e76a, name: Voldemort, hp: 66, isAlive: true 
-Character Class: Wizard ,Mana: 16, Intelligence: 38
-=====================
-Character id: 07582a6d-19f0-4f27-89a9-d94d1f5532e2, name: John Attacker, hp: 33, isAlive: true 
-Character Class: Warrior ,Stamina: 23, Strength: 5
-=====================
-Voldemort has attacked with a Staff Hit, his mana has reduced to 17
-John Attacker was attacked and his HP in now 31
-=====================
-Character id: 07582a6d-19f0-4f27-89a9-d94d1f5532e2, name: John Attacker, hp: 31, isAlive: true 
-Character Class: Warrior ,Stamina: 23, Strength: 5
-=====================
-Character id: 72ee1205-f218-41c2-8209-c8643f12e76a, name: Voldemort, hp: 66, isAlive: true 
-Character Class: Wizard ,Mana: 17, Intelligence: 38
-=====================
-John Attacker has attacked with a Heavy Attack, his Stamina is now 18
-Voldemort was attacked and his HP in now 61
-=====================
-Character id: 72ee1205-f218-41c2-8209-c8643f12e76a, name: Voldemort, hp: 61, isAlive: true 
-Character Class: Wizard ,Mana: 17, Intelligence: 38
-=====================
-Character id: 07582a6d-19f0-4f27-89a9-d94d1f5532e2, name: John Attacker, hp: 31, isAlive: true 
-Character Class: Warrior ,Stamina: 18, Strength: 5
-=====================
-Voldemort has attacked with a Fireball, his Mana has reduced to 12
-John Attacker was attacked and his HP in now -7
-=====================
-Voldemort has Won!!
+Summer has Won!!
