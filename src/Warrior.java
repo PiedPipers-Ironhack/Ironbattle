@@ -52,14 +52,14 @@ public class Warrior extends Character implements Attacker {
         System.out.println("random attack: " + random);
         System.out.println(character.getHp());
 
-        if( random == 1 && character.getHp() > 0){
+        if( random == 1 && character.getHp() > 0 && this.stamina >= 5){
             int resultHp = character.getHp() - this.strength;
             character.setHpInAttack(resultHp);
             setStaminaInAttack(this.stamina-5);
             //System.out.println(getName() + " has attacked with a heavy attack");
             return getName() + " has attacked with a Heavy Attack, his Stamina is now " + this.stamina + "\n" + character.getName() + " was attacked and his HP in now " + character.getHp() + "\n" + "=====================";
 
-        } else if((random == 2 && character.getHp() > 0)  || (this.stamina < 5 && character.getHp() > 0)) {
+        } else if((random == 2 && character.getHp() > 0 )  || (this.stamina < 5 && character.getHp() > 0)) {
             int resultHp = character.getHp() - (this.strength/2);
             character.setHpInAttack(resultHp);
             setStaminaInAttack(this.stamina+1);

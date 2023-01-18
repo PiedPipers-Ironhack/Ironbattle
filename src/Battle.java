@@ -74,18 +74,36 @@ public class Battle {
             //System.out.println("attacker stamina: " + test.getStamina());
             //System.out.println("attacker mana: " + test2.getMana());
 
-            while (defense.getHp() > 0) {
-                writer.write((attacker.toString()) + "\n");
-                writer.write(defense.toString() + "\n");
-                writer.write(attacker.attack(defense) + "\n");
-            }
-            if(defense.getHp() <= 0){
-                defense.setAlive(false);
-                defense.setHpInAttack(0);
+            while (defense.isAlive() && attacker.isAlive()) {
 
+
+
+                    writer.write((attacker.toString()) + "\n");
+                    writer.write(defense.toString() + "\n");
+                    writer.write(attacker.attack(defense) + "\n");
+
+
+                    writer.write((defense.toString()) + "\n");
+                    writer.write(attacker.toString() + "\n");
+                    writer.write(defense.attack(attacker) + "\n");
+
+
+                if(defense.getHp() <= 0){
+                    defense.setAlive(false);
+                    defense.setHpInAttack(0);
+                    writer.write( attacker.getName() + " has Won!!\n");
+
+                }
+                if(attacker.getHp() <= 0){
+                    attacker.setAlive(false);
+                    attacker.setHpInAttack(0);
+                    writer.write( defense.getName() + " has Won!!\n");
+
+                }
             }
 
-            writer.close();
+
+        writer.close();
             //System.out.println("attacker remaining mana: " + test2.getMana());
             //System.out.println("attacker remaining stamina: " + test.getStamina());
             //System.out.println("remaining hp defense: " + test.getHp());
