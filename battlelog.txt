@@ -1,55 +1,865 @@
-Character id: ecfba1c2-41d0-406a-9250-f0a64925f667, name: aaa, hp: 80, isAlive: true 
-Character Class: Wizard ,Mana: 32, Intelligence: 46
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 67, isAlive: true 
+Character Class: Wizard ,Mana: 36, Intelligence: 6
 =====================
-Character id: 88019763-14ca-4429-9afc-f21d7669dd41, name: fff, hp: 78, isAlive: true 
-Character Class: Wizard ,Mana: 23, Intelligence: 2
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 149, isAlive: true 
+Character Class: Warrior ,Stamina: 32, Strength: 2
 =====================
-aaa has attacked with a Fireball, his Mana has reduced to 27
-fff was attacked and his HP in now 32
+Wood has attacked with a Staff Hit, his mana has reduced to 37
+Jaden was attacked and his HP is now 147
 =====================
-Character id: 88019763-14ca-4429-9afc-f21d7669dd41, name: fff, hp: 32, isAlive: true 
-Character Class: Wizard ,Mana: 23, Intelligence: 2
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 147, isAlive: true 
+Character Class: Warrior ,Stamina: 32, Strength: 2
 =====================
-Character id: ecfba1c2-41d0-406a-9250-f0a64925f667, name: aaa, hp: 80, isAlive: true 
-Character Class: Wizard ,Mana: 27, Intelligence: 46
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 67, isAlive: true 
+Character Class: Wizard ,Mana: 37, Intelligence: 6
 =====================
-fff has attacked with a Fireball, his Mana has reduced to 18
-aaa was attacked and his HP in now 78
+Jaden has attacked with a Weak Attack, his Stamina is now 33
+Wood was attacked and his HP is now 66
 =====================
-Character id: ecfba1c2-41d0-406a-9250-f0a64925f667, name: aaa, hp: 78, isAlive: true 
-Character Class: Wizard ,Mana: 27, Intelligence: 46
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 66, isAlive: true 
+Character Class: Wizard ,Mana: 37, Intelligence: 6
 =====================
-Character id: 88019763-14ca-4429-9afc-f21d7669dd41, name: fff, hp: 32, isAlive: true 
-Character Class: Wizard ,Mana: 18, Intelligence: 2
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 147, isAlive: true 
+Character Class: Warrior ,Stamina: 33, Strength: 2
 =====================
-aaa has attacked with a Staff Hit, his mana has reduced to 28
-fff was attacked and his HP in now 30
+Wood has attacked with a Staff Hit, his mana has reduced to 38
+Jaden was attacked and his HP is now 145
 =====================
-Character id: 88019763-14ca-4429-9afc-f21d7669dd41, name: fff, hp: 30, isAlive: true 
-Character Class: Wizard ,Mana: 18, Intelligence: 2
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 145, isAlive: true 
+Character Class: Warrior ,Stamina: 33, Strength: 2
 =====================
-Character id: ecfba1c2-41d0-406a-9250-f0a64925f667, name: aaa, hp: 78, isAlive: true 
-Character Class: Wizard ,Mana: 28, Intelligence: 46
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 66, isAlive: true 
+Character Class: Wizard ,Mana: 38, Intelligence: 6
 =====================
-fff has attacked with a Staff Hit, his mana has reduced to 19
-aaa was attacked and his HP in now 76
+Jaden has attacked with a Heavy Attack, his Stamina is now 28
+Wood was attacked and his HP is now 64
 =====================
-Character id: ecfba1c2-41d0-406a-9250-f0a64925f667, name: aaa, hp: 76, isAlive: true 
-Character Class: Wizard ,Mana: 28, Intelligence: 46
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 64, isAlive: true 
+Character Class: Wizard ,Mana: 38, Intelligence: 6
 =====================
-Character id: 88019763-14ca-4429-9afc-f21d7669dd41, name: fff, hp: 30, isAlive: true 
-Character Class: Wizard ,Mana: 19, Intelligence: 2
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 145, isAlive: true 
+Character Class: Warrior ,Stamina: 28, Strength: 2
 =====================
-aaa has attacked with a Fireball, his Mana has reduced to 23
-fff was attacked and his HP in now -16
+Wood has attacked with a Fireball, his Mana has reduced to 33
+Jaden was attacked and his HP is now 139
 =====================
-Character id: 88019763-14ca-4429-9afc-f21d7669dd41, name: fff, hp: -16, isAlive: true 
-Character Class: Wizard ,Mana: 19, Intelligence: 2
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 139, isAlive: true 
+Character Class: Warrior ,Stamina: 28, Strength: 2
 =====================
-Character id: ecfba1c2-41d0-406a-9250-f0a64925f667, name: aaa, hp: 76, isAlive: true 
-Character Class: Wizard ,Mana: 23, Intelligence: 46
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 64, isAlive: true 
+Character Class: Wizard ,Mana: 33, Intelligence: 6
 =====================
-fff has attacked with a Staff Hit, his mana has reduced to 20
-aaa was attacked and his HP in now 74
+Jaden has attacked with a Weak Attack, his Stamina is now 29
+Wood was attacked and his HP is now 63
 =====================
-aaa has Won!!
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 63, isAlive: true 
+Character Class: Wizard ,Mana: 33, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 139, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 2
+=====================
+Wood has attacked with a Staff Hit, his mana has reduced to 34
+Jaden was attacked and his HP is now 137
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 137, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 63, isAlive: true 
+Character Class: Wizard ,Mana: 34, Intelligence: 6
+=====================
+Jaden has attacked with a Weak Attack, his Stamina is now 30
+Wood was attacked and his HP is now 62
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 62, isAlive: true 
+Character Class: Wizard ,Mana: 34, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 137, isAlive: true 
+Character Class: Warrior ,Stamina: 30, Strength: 2
+=====================
+Wood has attacked with a Staff Hit, his mana has reduced to 35
+Jaden was attacked and his HP is now 135
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 135, isAlive: true 
+Character Class: Warrior ,Stamina: 30, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 62, isAlive: true 
+Character Class: Wizard ,Mana: 35, Intelligence: 6
+=====================
+Jaden has attacked with a Heavy Attack, his Stamina is now 25
+Wood was attacked and his HP is now 60
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 60, isAlive: true 
+Character Class: Wizard ,Mana: 35, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 135, isAlive: true 
+Character Class: Warrior ,Stamina: 25, Strength: 2
+=====================
+Wood has attacked with a Fireball, his Mana has reduced to 30
+Jaden was attacked and his HP is now 129
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 129, isAlive: true 
+Character Class: Warrior ,Stamina: 25, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 60, isAlive: true 
+Character Class: Wizard ,Mana: 30, Intelligence: 6
+=====================
+Jaden has attacked with a Heavy Attack, his Stamina is now 20
+Wood was attacked and his HP is now 58
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 58, isAlive: true 
+Character Class: Wizard ,Mana: 30, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 129, isAlive: true 
+Character Class: Warrior ,Stamina: 20, Strength: 2
+=====================
+Wood has attacked with a Fireball, his Mana has reduced to 25
+Jaden was attacked and his HP is now 123
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 123, isAlive: true 
+Character Class: Warrior ,Stamina: 20, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 58, isAlive: true 
+Character Class: Wizard ,Mana: 25, Intelligence: 6
+=====================
+Jaden has attacked with a Weak Attack, his Stamina is now 21
+Wood was attacked and his HP is now 57
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 57, isAlive: true 
+Character Class: Wizard ,Mana: 25, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 123, isAlive: true 
+Character Class: Warrior ,Stamina: 21, Strength: 2
+=====================
+Wood has attacked with a Fireball, his Mana has reduced to 20
+Jaden was attacked and his HP is now 117
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 117, isAlive: true 
+Character Class: Warrior ,Stamina: 21, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 57, isAlive: true 
+Character Class: Wizard ,Mana: 20, Intelligence: 6
+=====================
+Jaden has attacked with a Heavy Attack, his Stamina is now 16
+Wood was attacked and his HP is now 55
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 55, isAlive: true 
+Character Class: Wizard ,Mana: 20, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 117, isAlive: true 
+Character Class: Warrior ,Stamina: 16, Strength: 2
+=====================
+Wood has attacked with a Fireball, his Mana has reduced to 15
+Jaden was attacked and his HP is now 111
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 111, isAlive: true 
+Character Class: Warrior ,Stamina: 16, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 55, isAlive: true 
+Character Class: Wizard ,Mana: 15, Intelligence: 6
+=====================
+Jaden has attacked with a Heavy Attack, his Stamina is now 11
+Wood was attacked and his HP is now 53
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 53, isAlive: true 
+Character Class: Wizard ,Mana: 15, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 111, isAlive: true 
+Character Class: Warrior ,Stamina: 11, Strength: 2
+=====================
+Wood has attacked with a Fireball, his Mana has reduced to 10
+Jaden was attacked and his HP is now 105
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 105, isAlive: true 
+Character Class: Warrior ,Stamina: 11, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 53, isAlive: true 
+Character Class: Wizard ,Mana: 10, Intelligence: 6
+=====================
+Jaden has attacked with a Heavy Attack, his Stamina is now 6
+Wood was attacked and his HP is now 51
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 51, isAlive: true 
+Character Class: Wizard ,Mana: 10, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 105, isAlive: true 
+Character Class: Warrior ,Stamina: 6, Strength: 2
+=====================
+Wood has attacked with a Fireball, his Mana has reduced to 5
+Jaden was attacked and his HP is now 99
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 99, isAlive: true 
+Character Class: Warrior ,Stamina: 6, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 51, isAlive: true 
+Character Class: Wizard ,Mana: 5, Intelligence: 6
+=====================
+Jaden has attacked with a Heavy Attack, his Stamina is now 1
+Wood was attacked and his HP is now 49
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 49, isAlive: true 
+Character Class: Wizard ,Mana: 5, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 99, isAlive: true 
+Character Class: Warrior ,Stamina: 1, Strength: 2
+=====================
+Wood has attacked with a Fireball, his Mana has reduced to 0
+Jaden was attacked and his HP is now 93
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 93, isAlive: true 
+Character Class: Warrior ,Stamina: 1, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 49, isAlive: true 
+Character Class: Wizard ,Mana: 0, Intelligence: 6
+=====================
+Jaden has attacked with a Weak Attack, his Stamina is now 2
+Wood was attacked and his HP is now 48
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 48, isAlive: true 
+Character Class: Wizard ,Mana: 0, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 93, isAlive: true 
+Character Class: Warrior ,Stamina: 2, Strength: 2
+=====================
+Wood has attacked with a Staff Hit, his mana has reduced to 1
+Jaden was attacked and his HP is now 91
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 91, isAlive: true 
+Character Class: Warrior ,Stamina: 2, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 48, isAlive: true 
+Character Class: Wizard ,Mana: 1, Intelligence: 6
+=====================
+Jaden has attacked with a Weak Attack, his Stamina is now 3
+Wood was attacked and his HP is now 47
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 47, isAlive: true 
+Character Class: Wizard ,Mana: 1, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 91, isAlive: true 
+Character Class: Warrior ,Stamina: 3, Strength: 2
+=====================
+Wood has attacked with a Staff Hit, his mana has reduced to 2
+Jaden was attacked and his HP is now 89
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 89, isAlive: true 
+Character Class: Warrior ,Stamina: 3, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 47, isAlive: true 
+Character Class: Wizard ,Mana: 2, Intelligence: 6
+=====================
+Jaden has attacked with a Weak Attack, his Stamina is now 4
+Wood was attacked and his HP is now 46
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 46, isAlive: true 
+Character Class: Wizard ,Mana: 2, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 89, isAlive: true 
+Character Class: Warrior ,Stamina: 4, Strength: 2
+=====================
+Wood has attacked with a Staff Hit, his mana has reduced to 3
+Jaden was attacked and his HP is now 87
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 87, isAlive: true 
+Character Class: Warrior ,Stamina: 4, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 46, isAlive: true 
+Character Class: Wizard ,Mana: 3, Intelligence: 6
+=====================
+Jaden has attacked with a Weak Attack, his Stamina is now 5
+Wood was attacked and his HP is now 45
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 45, isAlive: true 
+Character Class: Wizard ,Mana: 3, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 87, isAlive: true 
+Character Class: Warrior ,Stamina: 5, Strength: 2
+=====================
+Wood has attacked with a Staff Hit, his mana has reduced to 4
+Jaden was attacked and his HP is now 85
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 85, isAlive: true 
+Character Class: Warrior ,Stamina: 5, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 45, isAlive: true 
+Character Class: Wizard ,Mana: 4, Intelligence: 6
+=====================
+Jaden has attacked with a Weak Attack, his Stamina is now 6
+Wood was attacked and his HP is now 44
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 44, isAlive: true 
+Character Class: Wizard ,Mana: 4, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 85, isAlive: true 
+Character Class: Warrior ,Stamina: 6, Strength: 2
+=====================
+Wood has attacked with a Staff Hit, his mana has reduced to 5
+Jaden was attacked and his HP is now 83
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 83, isAlive: true 
+Character Class: Warrior ,Stamina: 6, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 44, isAlive: true 
+Character Class: Wizard ,Mana: 5, Intelligence: 6
+=====================
+Jaden has attacked with a Heavy Attack, his Stamina is now 1
+Wood was attacked and his HP is now 42
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 42, isAlive: true 
+Character Class: Wizard ,Mana: 5, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 83, isAlive: true 
+Character Class: Warrior ,Stamina: 1, Strength: 2
+=====================
+Wood has attacked with a Staff Hit, his mana has reduced to 6
+Jaden was attacked and his HP is now 81
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 81, isAlive: true 
+Character Class: Warrior ,Stamina: 1, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 42, isAlive: true 
+Character Class: Wizard ,Mana: 6, Intelligence: 6
+=====================
+Jaden has attacked with a Weak Attack, his Stamina is now 2
+Wood was attacked and his HP is now 41
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 41, isAlive: true 
+Character Class: Wizard ,Mana: 6, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 81, isAlive: true 
+Character Class: Warrior ,Stamina: 2, Strength: 2
+=====================
+Wood has attacked with a Staff Hit, his mana has reduced to 7
+Jaden was attacked and his HP is now 79
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 79, isAlive: true 
+Character Class: Warrior ,Stamina: 2, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 41, isAlive: true 
+Character Class: Wizard ,Mana: 7, Intelligence: 6
+=====================
+Jaden has attacked with a Weak Attack, his Stamina is now 3
+Wood was attacked and his HP is now 40
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 40, isAlive: true 
+Character Class: Wizard ,Mana: 7, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 79, isAlive: true 
+Character Class: Warrior ,Stamina: 3, Strength: 2
+=====================
+Wood has attacked with a Staff Hit, his mana has reduced to 8
+Jaden was attacked and his HP is now 77
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 77, isAlive: true 
+Character Class: Warrior ,Stamina: 3, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 40, isAlive: true 
+Character Class: Wizard ,Mana: 8, Intelligence: 6
+=====================
+Jaden has attacked with a Weak Attack, his Stamina is now 4
+Wood was attacked and his HP is now 39
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 39, isAlive: true 
+Character Class: Wizard ,Mana: 8, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 77, isAlive: true 
+Character Class: Warrior ,Stamina: 4, Strength: 2
+=====================
+Wood has attacked with a Staff Hit, his mana has reduced to 9
+Jaden was attacked and his HP is now 75
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 75, isAlive: true 
+Character Class: Warrior ,Stamina: 4, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 39, isAlive: true 
+Character Class: Wizard ,Mana: 9, Intelligence: 6
+=====================
+Jaden has attacked with a Weak Attack, his Stamina is now 5
+Wood was attacked and his HP is now 38
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 38, isAlive: true 
+Character Class: Wizard ,Mana: 9, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 75, isAlive: true 
+Character Class: Warrior ,Stamina: 5, Strength: 2
+=====================
+Wood has attacked with a Fireball, his Mana has reduced to 4
+Jaden was attacked and his HP is now 69
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 69, isAlive: true 
+Character Class: Warrior ,Stamina: 5, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 38, isAlive: true 
+Character Class: Wizard ,Mana: 4, Intelligence: 6
+=====================
+Jaden has attacked with a Weak Attack, his Stamina is now 6
+Wood was attacked and his HP is now 37
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 37, isAlive: true 
+Character Class: Wizard ,Mana: 4, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 69, isAlive: true 
+Character Class: Warrior ,Stamina: 6, Strength: 2
+=====================
+Wood has attacked with a Staff Hit, his mana has reduced to 5
+Jaden was attacked and his HP is now 67
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 67, isAlive: true 
+Character Class: Warrior ,Stamina: 6, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 37, isAlive: true 
+Character Class: Wizard ,Mana: 5, Intelligence: 6
+=====================
+Jaden has attacked with a Weak Attack, his Stamina is now 7
+Wood was attacked and his HP is now 36
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 36, isAlive: true 
+Character Class: Wizard ,Mana: 5, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 67, isAlive: true 
+Character Class: Warrior ,Stamina: 7, Strength: 2
+=====================
+Wood has attacked with a Fireball, his Mana has reduced to 0
+Jaden was attacked and his HP is now 61
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 61, isAlive: true 
+Character Class: Warrior ,Stamina: 7, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 36, isAlive: true 
+Character Class: Wizard ,Mana: 0, Intelligence: 6
+=====================
+Jaden has attacked with a Heavy Attack, his Stamina is now 2
+Wood was attacked and his HP is now 34
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 34, isAlive: true 
+Character Class: Wizard ,Mana: 0, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 61, isAlive: true 
+Character Class: Warrior ,Stamina: 2, Strength: 2
+=====================
+Wood has attacked with a Staff Hit, his mana has reduced to 1
+Jaden was attacked and his HP is now 59
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 59, isAlive: true 
+Character Class: Warrior ,Stamina: 2, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 34, isAlive: true 
+Character Class: Wizard ,Mana: 1, Intelligence: 6
+=====================
+Jaden has attacked with a Weak Attack, his Stamina is now 3
+Wood was attacked and his HP is now 33
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 33, isAlive: true 
+Character Class: Wizard ,Mana: 1, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 59, isAlive: true 
+Character Class: Warrior ,Stamina: 3, Strength: 2
+=====================
+Wood has attacked with a Staff Hit, his mana has reduced to 2
+Jaden was attacked and his HP is now 57
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 57, isAlive: true 
+Character Class: Warrior ,Stamina: 3, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 33, isAlive: true 
+Character Class: Wizard ,Mana: 2, Intelligence: 6
+=====================
+Jaden has attacked with a Weak Attack, his Stamina is now 4
+Wood was attacked and his HP is now 32
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 32, isAlive: true 
+Character Class: Wizard ,Mana: 2, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 57, isAlive: true 
+Character Class: Warrior ,Stamina: 4, Strength: 2
+=====================
+Wood has attacked with a Staff Hit, his mana has reduced to 3
+Jaden was attacked and his HP is now 55
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 55, isAlive: true 
+Character Class: Warrior ,Stamina: 4, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 32, isAlive: true 
+Character Class: Wizard ,Mana: 3, Intelligence: 6
+=====================
+Jaden has attacked with a Weak Attack, his Stamina is now 5
+Wood was attacked and his HP is now 31
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 31, isAlive: true 
+Character Class: Wizard ,Mana: 3, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 55, isAlive: true 
+Character Class: Warrior ,Stamina: 5, Strength: 2
+=====================
+Wood has attacked with a Staff Hit, his mana has reduced to 4
+Jaden was attacked and his HP is now 53
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 53, isAlive: true 
+Character Class: Warrior ,Stamina: 5, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 31, isAlive: true 
+Character Class: Wizard ,Mana: 4, Intelligence: 6
+=====================
+Jaden has attacked with a Heavy Attack, his Stamina is now 0
+Wood was attacked and his HP is now 29
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 29, isAlive: true 
+Character Class: Wizard ,Mana: 4, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 53, isAlive: true 
+Character Class: Warrior ,Stamina: 0, Strength: 2
+=====================
+Wood has attacked with a Staff Hit, his mana has reduced to 5
+Jaden was attacked and his HP is now 51
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 51, isAlive: true 
+Character Class: Warrior ,Stamina: 0, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 29, isAlive: true 
+Character Class: Wizard ,Mana: 5, Intelligence: 6
+=====================
+Jaden has attacked with a Weak Attack, his Stamina is now 1
+Wood was attacked and his HP is now 28
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 28, isAlive: true 
+Character Class: Wizard ,Mana: 5, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 51, isAlive: true 
+Character Class: Warrior ,Stamina: 1, Strength: 2
+=====================
+Wood has attacked with a Staff Hit, his mana has reduced to 6
+Jaden was attacked and his HP is now 49
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 49, isAlive: true 
+Character Class: Warrior ,Stamina: 1, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 28, isAlive: true 
+Character Class: Wizard ,Mana: 6, Intelligence: 6
+=====================
+Jaden has attacked with a Weak Attack, his Stamina is now 2
+Wood was attacked and his HP is now 27
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 27, isAlive: true 
+Character Class: Wizard ,Mana: 6, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 49, isAlive: true 
+Character Class: Warrior ,Stamina: 2, Strength: 2
+=====================
+Wood has attacked with a Staff Hit, his mana has reduced to 7
+Jaden was attacked and his HP is now 47
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 47, isAlive: true 
+Character Class: Warrior ,Stamina: 2, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 27, isAlive: true 
+Character Class: Wizard ,Mana: 7, Intelligence: 6
+=====================
+Jaden has attacked with a Weak Attack, his Stamina is now 3
+Wood was attacked and his HP is now 26
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 26, isAlive: true 
+Character Class: Wizard ,Mana: 7, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 47, isAlive: true 
+Character Class: Warrior ,Stamina: 3, Strength: 2
+=====================
+Wood has attacked with a Fireball, his Mana has reduced to 2
+Jaden was attacked and his HP is now 41
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 41, isAlive: true 
+Character Class: Warrior ,Stamina: 3, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 26, isAlive: true 
+Character Class: Wizard ,Mana: 2, Intelligence: 6
+=====================
+Jaden has attacked with a Weak Attack, his Stamina is now 4
+Wood was attacked and his HP is now 25
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 25, isAlive: true 
+Character Class: Wizard ,Mana: 2, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 41, isAlive: true 
+Character Class: Warrior ,Stamina: 4, Strength: 2
+=====================
+Wood has attacked with a Staff Hit, his mana has reduced to 3
+Jaden was attacked and his HP is now 39
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 39, isAlive: true 
+Character Class: Warrior ,Stamina: 4, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 25, isAlive: true 
+Character Class: Wizard ,Mana: 3, Intelligence: 6
+=====================
+Jaden has attacked with a Weak Attack, his Stamina is now 5
+Wood was attacked and his HP is now 24
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 24, isAlive: true 
+Character Class: Wizard ,Mana: 3, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 39, isAlive: true 
+Character Class: Warrior ,Stamina: 5, Strength: 2
+=====================
+Wood has attacked with a Staff Hit, his mana has reduced to 4
+Jaden was attacked and his HP is now 37
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 37, isAlive: true 
+Character Class: Warrior ,Stamina: 5, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 24, isAlive: true 
+Character Class: Wizard ,Mana: 4, Intelligence: 6
+=====================
+Jaden has attacked with a Weak Attack, his Stamina is now 6
+Wood was attacked and his HP is now 23
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 23, isAlive: true 
+Character Class: Wizard ,Mana: 4, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 37, isAlive: true 
+Character Class: Warrior ,Stamina: 6, Strength: 2
+=====================
+Wood has attacked with a Staff Hit, his mana has reduced to 5
+Jaden was attacked and his HP is now 35
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 35, isAlive: true 
+Character Class: Warrior ,Stamina: 6, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 23, isAlive: true 
+Character Class: Wizard ,Mana: 5, Intelligence: 6
+=====================
+Jaden has attacked with a Heavy Attack, his Stamina is now 1
+Wood was attacked and his HP is now 21
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 21, isAlive: true 
+Character Class: Wizard ,Mana: 5, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 35, isAlive: true 
+Character Class: Warrior ,Stamina: 1, Strength: 2
+=====================
+Wood has attacked with a Fireball, his Mana has reduced to 0
+Jaden was attacked and his HP is now 29
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 29, isAlive: true 
+Character Class: Warrior ,Stamina: 1, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 21, isAlive: true 
+Character Class: Wizard ,Mana: 0, Intelligence: 6
+=====================
+Jaden has attacked with a Weak Attack, his Stamina is now 2
+Wood was attacked and his HP is now 20
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 20, isAlive: true 
+Character Class: Wizard ,Mana: 0, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 29, isAlive: true 
+Character Class: Warrior ,Stamina: 2, Strength: 2
+=====================
+Wood has attacked with a Staff Hit, his mana has reduced to 1
+Jaden was attacked and his HP is now 27
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 27, isAlive: true 
+Character Class: Warrior ,Stamina: 2, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 20, isAlive: true 
+Character Class: Wizard ,Mana: 1, Intelligence: 6
+=====================
+Jaden has attacked with a Weak Attack, his Stamina is now 3
+Wood was attacked and his HP is now 19
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 19, isAlive: true 
+Character Class: Wizard ,Mana: 1, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 27, isAlive: true 
+Character Class: Warrior ,Stamina: 3, Strength: 2
+=====================
+Wood has attacked with a Staff Hit, his mana has reduced to 2
+Jaden was attacked and his HP is now 25
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 25, isAlive: true 
+Character Class: Warrior ,Stamina: 3, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 19, isAlive: true 
+Character Class: Wizard ,Mana: 2, Intelligence: 6
+=====================
+Jaden has attacked with a Weak Attack, his Stamina is now 4
+Wood was attacked and his HP is now 18
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 18, isAlive: true 
+Character Class: Wizard ,Mana: 2, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 25, isAlive: true 
+Character Class: Warrior ,Stamina: 4, Strength: 2
+=====================
+Wood has attacked with a Staff Hit, his mana has reduced to 3
+Jaden was attacked and his HP is now 23
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 23, isAlive: true 
+Character Class: Warrior ,Stamina: 4, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 18, isAlive: true 
+Character Class: Wizard ,Mana: 3, Intelligence: 6
+=====================
+Jaden has attacked with a Weak Attack, his Stamina is now 5
+Wood was attacked and his HP is now 17
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 17, isAlive: true 
+Character Class: Wizard ,Mana: 3, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 23, isAlive: true 
+Character Class: Warrior ,Stamina: 5, Strength: 2
+=====================
+Wood has attacked with a Staff Hit, his mana has reduced to 4
+Jaden was attacked and his HP is now 21
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 21, isAlive: true 
+Character Class: Warrior ,Stamina: 5, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 17, isAlive: true 
+Character Class: Wizard ,Mana: 4, Intelligence: 6
+=====================
+Jaden has attacked with a Weak Attack, his Stamina is now 6
+Wood was attacked and his HP is now 16
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 16, isAlive: true 
+Character Class: Wizard ,Mana: 4, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 21, isAlive: true 
+Character Class: Warrior ,Stamina: 6, Strength: 2
+=====================
+Wood has attacked with a Staff Hit, his mana has reduced to 5
+Jaden was attacked and his HP is now 19
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 19, isAlive: true 
+Character Class: Warrior ,Stamina: 6, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 16, isAlive: true 
+Character Class: Wizard ,Mana: 5, Intelligence: 6
+=====================
+Jaden has attacked with a Heavy Attack, his Stamina is now 1
+Wood was attacked and his HP is now 14
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 14, isAlive: true 
+Character Class: Wizard ,Mana: 5, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 19, isAlive: true 
+Character Class: Warrior ,Stamina: 1, Strength: 2
+=====================
+Wood has attacked with a Fireball, his Mana has reduced to 0
+Jaden was attacked and his HP is now 13
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 13, isAlive: true 
+Character Class: Warrior ,Stamina: 1, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 14, isAlive: true 
+Character Class: Wizard ,Mana: 0, Intelligence: 6
+=====================
+Jaden has attacked with a Weak Attack, his Stamina is now 2
+Wood was attacked and his HP is now 13
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 13, isAlive: true 
+Character Class: Wizard ,Mana: 0, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 13, isAlive: true 
+Character Class: Warrior ,Stamina: 2, Strength: 2
+=====================
+Wood has attacked with a Staff Hit, his mana has reduced to 1
+Jaden was attacked and his HP is now 11
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 11, isAlive: true 
+Character Class: Warrior ,Stamina: 2, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 13, isAlive: true 
+Character Class: Wizard ,Mana: 1, Intelligence: 6
+=====================
+Jaden has attacked with a Weak Attack, his Stamina is now 3
+Wood was attacked and his HP is now 12
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 12, isAlive: true 
+Character Class: Wizard ,Mana: 1, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 11, isAlive: true 
+Character Class: Warrior ,Stamina: 3, Strength: 2
+=====================
+Wood has attacked with a Staff Hit, his mana has reduced to 2
+Jaden was attacked and his HP is now 9
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 9, isAlive: true 
+Character Class: Warrior ,Stamina: 3, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 12, isAlive: true 
+Character Class: Wizard ,Mana: 2, Intelligence: 6
+=====================
+Jaden has attacked with a Weak Attack, his Stamina is now 4
+Wood was attacked and his HP is now 11
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 11, isAlive: true 
+Character Class: Wizard ,Mana: 2, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 9, isAlive: true 
+Character Class: Warrior ,Stamina: 4, Strength: 2
+=====================
+Wood has attacked with a Staff Hit, his mana has reduced to 3
+Jaden was attacked and his HP is now 7
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 7, isAlive: true 
+Character Class: Warrior ,Stamina: 4, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 11, isAlive: true 
+Character Class: Wizard ,Mana: 3, Intelligence: 6
+=====================
+Jaden has attacked with a Weak Attack, his Stamina is now 5
+Wood was attacked and his HP is now 10
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 10, isAlive: true 
+Character Class: Wizard ,Mana: 3, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 7, isAlive: true 
+Character Class: Warrior ,Stamina: 5, Strength: 2
+=====================
+Wood has attacked with a Staff Hit, his mana has reduced to 4
+Jaden was attacked and his HP is now 5
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 5, isAlive: true 
+Character Class: Warrior ,Stamina: 5, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 10, isAlive: true 
+Character Class: Wizard ,Mana: 4, Intelligence: 6
+=====================
+Jaden has attacked with a Heavy Attack, his Stamina is now 0
+Wood was attacked and his HP is now 8
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 8, isAlive: true 
+Character Class: Wizard ,Mana: 4, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 5, isAlive: true 
+Character Class: Warrior ,Stamina: 0, Strength: 2
+=====================
+Wood has attacked with a Staff Hit, his mana has reduced to 5
+Jaden was attacked and his HP is now 3
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 3, isAlive: true 
+Character Class: Warrior ,Stamina: 0, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 8, isAlive: true 
+Character Class: Wizard ,Mana: 5, Intelligence: 6
+=====================
+Jaden has attacked with a Weak Attack, his Stamina is now 1
+Wood was attacked and his HP is now 7
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 7, isAlive: true 
+Character Class: Wizard ,Mana: 5, Intelligence: 6
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: 3, isAlive: true 
+Character Class: Warrior ,Stamina: 1, Strength: 2
+=====================
+Wood has attacked with a Fireball, his Mana has reduced to 0
+Jaden was attacked and his HP is now -3
+=====================
+Character id: 3f64a6a1-7630-4f4d-9717-9f3d463e7fff, name: Jaden, hp: -3, isAlive: true 
+Character Class: Warrior ,Stamina: 1, Strength: 2
+=====================
+Character id: 7d0ed419-be64-4eab-a809-b9c30192a555, name: Wood, hp: 7, isAlive: true 
+Character Class: Wizard ,Mana: 0, Intelligence: 6
+=====================
+Jaden has attacked with a Weak Attack, his Stamina is now 2
+Wood was attacked and his HP is now 6
+=====================
+Wood has Won!!

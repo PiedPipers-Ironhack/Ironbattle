@@ -64,14 +64,14 @@ public class Warrior extends Character implements Attacker {
             character.setHpInAttack(resultHp);
             setStaminaInAttack(this.stamina-5);
             //System.out.println(getName() + " has attacked with a heavy attack");
-            return getName() + " has attacked with a Heavy Attack, his Stamina is now " + this.stamina + "\n" + character.getName() + " was attacked and his HP in now " + character.getHp() + "\n" + "=====================";
+            return getName() + " has attacked with a Heavy Attack, his Stamina is now " + this.stamina + "\n" + character.getName() + " was attacked and his HP is now " + character.getHp() + "\n" + "=====================";
 
         } else if((random == 2 && character.getHp() > 0 )  || (this.stamina < 5 && character.getHp() > 0)) {
             int resultHp = character.getHp() - (this.strength/2);
             character.setHpInAttack(resultHp);
             setStaminaInAttack(this.stamina+1);
             //System.out.println(getName() + " has attacked with a Weak Attack");
-            return getName() + " has attacked with a Weak Attack, his Stamina is now " + this.stamina + "\n" + character.getName() + " was attacked and his HP in now " + character.getHp() + "\n" + "=====================";
+            return getName() + " has attacked with a Weak Attack, his Stamina is now " + this.stamina + "\n" + character.getName() + " was attacked and his HP is now " + character.getHp() + "\n" + "=====================";
         } else if (this.stamina < 1) {
             setStaminaInAttack(this.stamina + 2);
             //System.out.println(getName() + " does not have enough Stamina to attack");
