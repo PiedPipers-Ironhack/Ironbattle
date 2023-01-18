@@ -48,4 +48,12 @@ public class Character {
     public void setAlive(boolean alive) {
         isAlive = alive;
     }
+
+    @Override
+    public String toString() {
+        return "Character id: " + id +", name: " + name +
+                ", hp: " + hp +
+                ", isAlive: " + isAlive + " ";
+    }
 }
+

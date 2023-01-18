@@ -27,6 +27,9 @@ public class Wizard extends Character implements Attacker {
     public void setMana(int mana) {
         this.mana = (int) (Math.random() * 40 + 10);
     }
+    public void setManaInAttack(int mana){
+        this.mana = mana;
+    }
 
     public int getIntelligence() {
         return intelligence;
@@ -37,13 +40,34 @@ public class Wizard extends Character implements Attacker {
     }
 
     @Override
-    public int attack(Character character) {
+    public void attack(Character character) {
 
-        int resultHp = character.getHp() - this.intelligence;
-        //System.out.println("character hp: " + character.getHp());
-        //System.out.println("intelligence: " + this.intelligence);
-        //System.out.println("result hp: " + resultHp);
-        character.setHpInAttack(resultHp);
-        return character.getHp();
+        int random = (Math.random()<= 0.5)?1:2;
+        System.out.println("random attack: " + random);
+
+        if( random == 1){
+            int resultHp = character.getHp() - this.intelligence;
+            character.setHpInAttack(resultHp);
+            setManaInAttack(this.mana-5);
+            System.out.println(getName() + " has attacked with a Fireball");
+
+        } else if(random == 2 || getMana() < 5) {
+            int resultHp = character.getHp() - 2;
+            character.setHpInAttack(resultHp);
+            setManaInAttack(this.mana+1);
+            System.out.println(getName() + " has attacked with a Staff Hit");
+        } else if (getMana() < 1) {
+            setManaInAttack(this.mana+ 2);
+            System.out.println(getName() + " does not have enough mana to cast a spell");
+
+        }
+
+    }
+
+    @Override
+    public String toString() {
+        return Wizard.super.toString() + ", character class: Warrior ," +
+                "mana: " + mana +
+                ", intelligence: " + intelligence + "\n";
     }
 }
