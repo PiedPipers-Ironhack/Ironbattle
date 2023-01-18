@@ -1,5 +1,7 @@
+import java.util.UUID;
+
 public class Character {
-    private String id;
+    private final String id = String.valueOf(UUID.randomUUID());
     private String name;
     private int hp;
     private boolean isAlive = true;
@@ -7,22 +9,18 @@ public class Character {
     public Character(String name, int hp) {
         setName(name);
         setHp(hp);
+
     }
 
     public Character(String name) {
         setName(name);
-        if (this instanceof Warrior) this.hp = (int)(Math.random() * 100 + 100);
-        else if (this instanceof Wizard) this.hp = (int)(Math.random() * 50 + 50);
-        else setHp(hp);
+        setHp(hp);
     }
 
     public String getId() {
         return id;
     }
 
-    public void setId(String id) {
-        this.id = id;
-    }
 
     public String getName() {
         return name;
@@ -39,6 +37,9 @@ public class Character {
     public void setHp(int hp) {
         this.hp = hp;
     }
+    public void setHpInAttack(int hp){
+        this.hp = hp;
+    }
 
     public boolean isAlive() {
         return isAlive;
@@ -47,4 +48,14 @@ public class Character {
     public void setAlive(boolean alive) {
         isAlive = alive;
     }
+
+    @Override
+    public String toString() {
+        return "Character id: " + id +", name: " + name +
+                ", hp: " + hp +
+                ", isAlive: " + isAlive + " ";
+    }
+
+
 }
+
