@@ -4,7 +4,7 @@ import java.io.IOException;
 public class Battle {
     public static void battleStart(Wizard attacker, Wizard defense) throws IOException {
 
-        FileWriter writer = new FileWriter("battlelog.txt", true);
+        FileWriter writer = new FileWriter("battlelog.txt", false);
         //System.out.println("Intelligence: " + defense.getIntelligence());
         //System.out.println("initial hp defense: " + attacker.getHp());
         //System.out.println("initial hp attacker: " + test.getHp());
@@ -15,6 +15,9 @@ public class Battle {
         writer.write((attacker.toString()) + "\n");
         writer.write(defense.toString() + "\n");
         writer.write(attacker.attack(defense)+ "\n");
+        writer.write( "After attack \n");
+        writer.write((attacker.toString()) + "\n");
+        writer.write(defense.toString() + "\n");
         writer.close();
         //System.out.println("attacker remaining mana: " + test2.getMana());
         //System.out.println("attacker remaining stamina: " + test.getStamina());
@@ -63,7 +66,7 @@ public class Battle {
     public static void battleStart(Warrior attacker, Warrior defense) throws IOException {
 
 
-            FileWriter writer = new FileWriter("battlelog.txt", true);
+            FileWriter writer = new FileWriter("battlelog.txt", false);
             //System.out.println("Intelligence: " + defense.getIntelligence());
             //System.out.println("initial hp defense: " + attacker.getHp());
             //System.out.println("initial hp attacker: " + test.getHp());
@@ -75,6 +78,11 @@ public class Battle {
                 writer.write((attacker.toString()) + "\n");
                 writer.write(defense.toString() + "\n");
                 writer.write(attacker.attack(defense) + "\n");
+            }
+            if(defense.getHp() <= 0){
+                defense.setAlive(false);
+                defense.setHpInAttack(0);
+
             }
 
             writer.close();

@@ -1,594 +1,783 @@
-Character id: 161beae9-15d8-4dd6-9b3e-497b3a28a27a, name: John Attacker, hp: 143, isAlive: true 
-Character Class: Warrior ,Stamina: 19, Strength: 4
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: 31, Strength: 2
 =====================
-Character id: 07de6eb5-6259-44fe-a1b7-7713a70d6074, name: Defense Warrior, hp: 172, isAlive: true 
-Character Class: Warrior ,Stamina: 49, Strength: 4
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 123, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
 =====================
-John Attacker has attacked with a Weak Attack, his Stamina is now 20
-Defense Warrior was attacked and his HP in now 170
-=====================
-Character id: 27a77784-c49c-424a-94e1-a0f4392d03f9, name: John Attacker, hp: 127, isAlive: true 
-Character Class: Warrior ,Stamina: 39, Strength: 9
-=====================
-Character id: 2da4dc9e-beca-4d69-adbf-70e48b2c18a9, name: Defense Warrior, hp: 197, isAlive: true 
-Character Class: Warrior ,Stamina: 32, Strength: 5
-=====================
-John Attacker has attacked with a Weak Attack, his Stamina is now 40
-Defense Warrior was attacked and his HP in now 193
-=====================
-Character id: 27a77784-c49c-424a-94e1-a0f4392d03f9, name: John Attacker, hp: 127, isAlive: true 
-Character Class: Warrior ,Stamina: 40, Strength: 9
-=====================
-Character id: 2da4dc9e-beca-4d69-adbf-70e48b2c18a9, name: Defense Warrior, hp: 193, isAlive: true 
-Character Class: Warrior ,Stamina: 32, Strength: 5
-=====================
-John Attacker has attacked with a Weak Attack, his Stamina is now 41
-Defense Warrior was attacked and his HP in now 189
-=====================
-Character id: 27a77784-c49c-424a-94e1-a0f4392d03f9, name: John Attacker, hp: 127, isAlive: true 
-Character Class: Warrior ,Stamina: 41, Strength: 9
-=====================
-Character id: 2da4dc9e-beca-4d69-adbf-70e48b2c18a9, name: Defense Warrior, hp: 189, isAlive: true 
-Character Class: Warrior ,Stamina: 32, Strength: 5
-=====================
-John Attacker has attacked with a Weak Attack, his Stamina is now 42
-Defense Warrior was attacked and his HP in now 185
-=====================
-Character id: 27a77784-c49c-424a-94e1-a0f4392d03f9, name: John Attacker, hp: 127, isAlive: true 
-Character Class: Warrior ,Stamina: 42, Strength: 9
-=====================
-Character id: 2da4dc9e-beca-4d69-adbf-70e48b2c18a9, name: Defense Warrior, hp: 185, isAlive: true 
-Character Class: Warrior ,Stamina: 32, Strength: 5
-=====================
-John Attacker has attacked with a Heavy Attack, his Stamina is now 37
-Defense Warrior was attacked and his HP in now 176
-=====================
-Character id: 27a77784-c49c-424a-94e1-a0f4392d03f9, name: John Attacker, hp: 127, isAlive: true 
-Character Class: Warrior ,Stamina: 37, Strength: 9
-=====================
-Character id: 2da4dc9e-beca-4d69-adbf-70e48b2c18a9, name: Defense Warrior, hp: 176, isAlive: true 
-Character Class: Warrior ,Stamina: 32, Strength: 5
-=====================
-John Attacker has attacked with a Heavy Attack, his Stamina is now 32
-Defense Warrior was attacked and his HP in now 167
-=====================
-Character id: 27a77784-c49c-424a-94e1-a0f4392d03f9, name: John Attacker, hp: 127, isAlive: true 
-Character Class: Warrior ,Stamina: 32, Strength: 9
-=====================
-Character id: 2da4dc9e-beca-4d69-adbf-70e48b2c18a9, name: Defense Warrior, hp: 167, isAlive: true 
-Character Class: Warrior ,Stamina: 32, Strength: 5
-=====================
-John Attacker has attacked with a Weak Attack, his Stamina is now 33
-Defense Warrior was attacked and his HP in now 163
-=====================
-Character id: 27a77784-c49c-424a-94e1-a0f4392d03f9, name: John Attacker, hp: 127, isAlive: true 
-Character Class: Warrior ,Stamina: 33, Strength: 9
-=====================
-Character id: 2da4dc9e-beca-4d69-adbf-70e48b2c18a9, name: Defense Warrior, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: 32, Strength: 5
-=====================
-John Attacker has attacked with a Heavy Attack, his Stamina is now 28
-Defense Warrior was attacked and his HP in now 154
-=====================
-Character id: 27a77784-c49c-424a-94e1-a0f4392d03f9, name: John Attacker, hp: 127, isAlive: true 
-Character Class: Warrior ,Stamina: 28, Strength: 9
-=====================
-Character id: 2da4dc9e-beca-4d69-adbf-70e48b2c18a9, name: Defense Warrior, hp: 154, isAlive: true 
-Character Class: Warrior ,Stamina: 32, Strength: 5
-=====================
-John Attacker has attacked with a Heavy Attack, his Stamina is now 23
-Defense Warrior was attacked and his HP in now 145
-=====================
-Character id: 27a77784-c49c-424a-94e1-a0f4392d03f9, name: John Attacker, hp: 127, isAlive: true 
-Character Class: Warrior ,Stamina: 23, Strength: 9
-=====================
-Character id: 2da4dc9e-beca-4d69-adbf-70e48b2c18a9, name: Defense Warrior, hp: 145, isAlive: true 
-Character Class: Warrior ,Stamina: 32, Strength: 5
-=====================
-John Attacker has attacked with a Weak Attack, his Stamina is now 24
-Defense Warrior was attacked and his HP in now 141
-=====================
-Character id: 27a77784-c49c-424a-94e1-a0f4392d03f9, name: John Attacker, hp: 127, isAlive: true 
-Character Class: Warrior ,Stamina: 24, Strength: 9
-=====================
-Character id: 2da4dc9e-beca-4d69-adbf-70e48b2c18a9, name: Defense Warrior, hp: 141, isAlive: true 
-Character Class: Warrior ,Stamina: 32, Strength: 5
-=====================
-John Attacker has attacked with a Weak Attack, his Stamina is now 25
-Defense Warrior was attacked and his HP in now 137
-=====================
-Character id: 27a77784-c49c-424a-94e1-a0f4392d03f9, name: John Attacker, hp: 127, isAlive: true 
-Character Class: Warrior ,Stamina: 25, Strength: 9
-=====================
-Character id: 2da4dc9e-beca-4d69-adbf-70e48b2c18a9, name: Defense Warrior, hp: 137, isAlive: true 
-Character Class: Warrior ,Stamina: 32, Strength: 5
-=====================
-John Attacker has attacked with a Weak Attack, his Stamina is now 26
-Defense Warrior was attacked and his HP in now 133
-=====================
-Character id: 27a77784-c49c-424a-94e1-a0f4392d03f9, name: John Attacker, hp: 127, isAlive: true 
-Character Class: Warrior ,Stamina: 26, Strength: 9
-=====================
-Character id: 2da4dc9e-beca-4d69-adbf-70e48b2c18a9, name: Defense Warrior, hp: 133, isAlive: true 
-Character Class: Warrior ,Stamina: 32, Strength: 5
-=====================
-John Attacker has attacked with a Weak Attack, his Stamina is now 27
-Defense Warrior was attacked and his HP in now 129
-=====================
-Character id: 27a77784-c49c-424a-94e1-a0f4392d03f9, name: John Attacker, hp: 127, isAlive: true 
-Character Class: Warrior ,Stamina: 27, Strength: 9
-=====================
-Character id: 2da4dc9e-beca-4d69-adbf-70e48b2c18a9, name: Defense Warrior, hp: 129, isAlive: true 
-Character Class: Warrior ,Stamina: 32, Strength: 5
-=====================
-John Attacker has attacked with a Weak Attack, his Stamina is now 28
-Defense Warrior was attacked and his HP in now 125
-=====================
-Character id: 27a77784-c49c-424a-94e1-a0f4392d03f9, name: John Attacker, hp: 127, isAlive: true 
-Character Class: Warrior ,Stamina: 28, Strength: 9
-=====================
-Character id: 2da4dc9e-beca-4d69-adbf-70e48b2c18a9, name: Defense Warrior, hp: 125, isAlive: true 
-Character Class: Warrior ,Stamina: 32, Strength: 5
-=====================
-John Attacker has attacked with a Weak Attack, his Stamina is now 29
+John Attacker has attacked with a Heavy Attack, his Stamina is now 26
 Defense Warrior was attacked and his HP in now 121
 =====================
-Character id: 063a796f-e177-4f7a-8822-91870a67b64d, name: John Attacker, hp: 114, isAlive: true 
-Character Class: Warrior ,Stamina: 27, Strength: 5
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: 26, Strength: 2
 =====================
-Character id: 23eb42b9-ac1b-4327-8113-71a54ba87ba0, name: Defense Warrior, hp: 129, isAlive: true 
-Character Class: Warrior ,Stamina: 19, Strength: 4
-=====================
-John Attacker has attacked with a Heavy Attack, his Stamina is now 22
-Defense Warrior was attacked and his HP in now 124
-=====================
-Character id: 063a796f-e177-4f7a-8822-91870a67b64d, name: John Attacker, hp: 114, isAlive: true 
-Character Class: Warrior ,Stamina: 22, Strength: 5
-=====================
-Character id: 23eb42b9-ac1b-4327-8113-71a54ba87ba0, name: Defense Warrior, hp: 124, isAlive: true 
-Character Class: Warrior ,Stamina: 19, Strength: 4
-=====================
-John Attacker has attacked with a Heavy Attack, his Stamina is now 17
-Defense Warrior was attacked and his HP in now 119
-=====================
-Character id: 063a796f-e177-4f7a-8822-91870a67b64d, name: John Attacker, hp: 114, isAlive: true 
-Character Class: Warrior ,Stamina: 17, Strength: 5
-=====================
-Character id: 23eb42b9-ac1b-4327-8113-71a54ba87ba0, name: Defense Warrior, hp: 119, isAlive: true 
-Character Class: Warrior ,Stamina: 19, Strength: 4
-=====================
-John Attacker has attacked with a Weak Attack, his Stamina is now 18
-Defense Warrior was attacked and his HP in now 117
-=====================
-Character id: 063a796f-e177-4f7a-8822-91870a67b64d, name: John Attacker, hp: 114, isAlive: true 
-Character Class: Warrior ,Stamina: 18, Strength: 5
-=====================
-Character id: 23eb42b9-ac1b-4327-8113-71a54ba87ba0, name: Defense Warrior, hp: 117, isAlive: true 
-Character Class: Warrior ,Stamina: 19, Strength: 4
-=====================
-John Attacker has attacked with a Heavy Attack, his Stamina is now 13
-Defense Warrior was attacked and his HP in now 112
-=====================
-Character id: 063a796f-e177-4f7a-8822-91870a67b64d, name: John Attacker, hp: 114, isAlive: true 
-Character Class: Warrior ,Stamina: 13, Strength: 5
-=====================
-Character id: 23eb42b9-ac1b-4327-8113-71a54ba87ba0, name: Defense Warrior, hp: 112, isAlive: true 
-Character Class: Warrior ,Stamina: 19, Strength: 4
-=====================
-John Attacker has attacked with a Weak Attack, his Stamina is now 14
-Defense Warrior was attacked and his HP in now 110
-=====================
-Character id: 063a796f-e177-4f7a-8822-91870a67b64d, name: John Attacker, hp: 114, isAlive: true 
-Character Class: Warrior ,Stamina: 14, Strength: 5
-=====================
-Character id: 23eb42b9-ac1b-4327-8113-71a54ba87ba0, name: Defense Warrior, hp: 110, isAlive: true 
-Character Class: Warrior ,Stamina: 19, Strength: 4
-=====================
-John Attacker has attacked with a Weak Attack, his Stamina is now 15
-Defense Warrior was attacked and his HP in now 108
-=====================
-Character id: 063a796f-e177-4f7a-8822-91870a67b64d, name: John Attacker, hp: 114, isAlive: true 
-Character Class: Warrior ,Stamina: 15, Strength: 5
-=====================
-Character id: 23eb42b9-ac1b-4327-8113-71a54ba87ba0, name: Defense Warrior, hp: 108, isAlive: true 
-Character Class: Warrior ,Stamina: 19, Strength: 4
-=====================
-John Attacker has attacked with a Heavy Attack, his Stamina is now 10
-Defense Warrior was attacked and his HP in now 103
-=====================
-Character id: 063a796f-e177-4f7a-8822-91870a67b64d, name: John Attacker, hp: 114, isAlive: true 
-Character Class: Warrior ,Stamina: 10, Strength: 5
-=====================
-Character id: 23eb42b9-ac1b-4327-8113-71a54ba87ba0, name: Defense Warrior, hp: 103, isAlive: true 
-Character Class: Warrior ,Stamina: 19, Strength: 4
-=====================
-John Attacker has attacked with a Heavy Attack, his Stamina is now 5
-Defense Warrior was attacked and his HP in now 98
-=====================
-Character id: 063a796f-e177-4f7a-8822-91870a67b64d, name: John Attacker, hp: 114, isAlive: true 
-Character Class: Warrior ,Stamina: 5, Strength: 5
-=====================
-Character id: 23eb42b9-ac1b-4327-8113-71a54ba87ba0, name: Defense Warrior, hp: 98, isAlive: true 
-Character Class: Warrior ,Stamina: 19, Strength: 4
-=====================
-John Attacker has attacked with a Weak Attack, his Stamina is now 6
-Defense Warrior was attacked and his HP in now 96
-=====================
-Character id: 063a796f-e177-4f7a-8822-91870a67b64d, name: John Attacker, hp: 114, isAlive: true 
-Character Class: Warrior ,Stamina: 6, Strength: 5
-=====================
-Character id: 23eb42b9-ac1b-4327-8113-71a54ba87ba0, name: Defense Warrior, hp: 96, isAlive: true 
-Character Class: Warrior ,Stamina: 19, Strength: 4
-=====================
-John Attacker has attacked with a Weak Attack, his Stamina is now 7
-Defense Warrior was attacked and his HP in now 94
-=====================
-Character id: 063a796f-e177-4f7a-8822-91870a67b64d, name: John Attacker, hp: 114, isAlive: true 
-Character Class: Warrior ,Stamina: 7, Strength: 5
-=====================
-Character id: 23eb42b9-ac1b-4327-8113-71a54ba87ba0, name: Defense Warrior, hp: 94, isAlive: true 
-Character Class: Warrior ,Stamina: 19, Strength: 4
-=====================
-John Attacker has attacked with a Heavy Attack, his Stamina is now 2
-Defense Warrior was attacked and his HP in now 89
-=====================
-Character id: 063a796f-e177-4f7a-8822-91870a67b64d, name: John Attacker, hp: 114, isAlive: true 
-Character Class: Warrior ,Stamina: 2, Strength: 5
-=====================
-Character id: 23eb42b9-ac1b-4327-8113-71a54ba87ba0, name: Defense Warrior, hp: 89, isAlive: true 
-Character Class: Warrior ,Stamina: 19, Strength: 4
-=====================
-John Attacker has attacked with a Weak Attack, his Stamina is now 3
-Defense Warrior was attacked and his HP in now 87
-=====================
-Character id: 063a796f-e177-4f7a-8822-91870a67b64d, name: John Attacker, hp: 114, isAlive: true 
-Character Class: Warrior ,Stamina: 3, Strength: 5
-=====================
-Character id: 23eb42b9-ac1b-4327-8113-71a54ba87ba0, name: Defense Warrior, hp: 87, isAlive: true 
-Character Class: Warrior ,Stamina: 19, Strength: 4
-=====================
-John Attacker has attacked with a Heavy Attack, his Stamina is now -2
-Defense Warrior was attacked and his HP in now 82
-=====================
-Character id: 063a796f-e177-4f7a-8822-91870a67b64d, name: John Attacker, hp: 114, isAlive: true 
-Character Class: Warrior ,Stamina: -2, Strength: 5
-=====================
-Character id: 23eb42b9-ac1b-4327-8113-71a54ba87ba0, name: Defense Warrior, hp: 82, isAlive: true 
-Character Class: Warrior ,Stamina: 19, Strength: 4
-=====================
-John Attacker has attacked with a Weak Attack, his Stamina is now -1
-Defense Warrior was attacked and his HP in now 80
-=====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: 34, Strength: 6
-=====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 160, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
-=====================
-John Attacker has attacked with a Heavy Attack, his Stamina is now 29
-Defense Warrior was attacked and his HP in now 154
-=====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: 29, Strength: 6
-=====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 154, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
-=====================
-John Attacker has attacked with a Weak Attack, his Stamina is now 30
-Defense Warrior was attacked and his HP in now 151
-=====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: 30, Strength: 6
-=====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 151, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
-=====================
-John Attacker has attacked with a Heavy Attack, his Stamina is now 25
-Defense Warrior was attacked and his HP in now 145
-=====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: 25, Strength: 6
-=====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 145, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
-=====================
-John Attacker has attacked with a Weak Attack, his Stamina is now 26
-Defense Warrior was attacked and his HP in now 142
-=====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: 26, Strength: 6
-=====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 142, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 121, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
 =====================
 John Attacker has attacked with a Weak Attack, his Stamina is now 27
-Defense Warrior was attacked and his HP in now 139
+Defense Warrior was attacked and his HP in now 120
 =====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: 27, Strength: 6
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: 27, Strength: 2
 =====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 139, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 120, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
 =====================
 John Attacker has attacked with a Heavy Attack, his Stamina is now 22
-Defense Warrior was attacked and his HP in now 133
-=====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: 22, Strength: 6
-=====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 133, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
-=====================
-John Attacker has attacked with a Heavy Attack, his Stamina is now 17
-Defense Warrior was attacked and his HP in now 127
-=====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: 17, Strength: 6
-=====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 127, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
-=====================
-John Attacker has attacked with a Weak Attack, his Stamina is now 18
-Defense Warrior was attacked and his HP in now 124
-=====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: 18, Strength: 6
-=====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 124, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
-=====================
-John Attacker has attacked with a Weak Attack, his Stamina is now 19
-Defense Warrior was attacked and his HP in now 121
-=====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: 19, Strength: 6
-=====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 121, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
-=====================
-John Attacker has attacked with a Weak Attack, his Stamina is now 20
 Defense Warrior was attacked and his HP in now 118
 =====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: 20, Strength: 6
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: 22, Strength: 2
 =====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 118, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
 =====================
-John Attacker has attacked with a Heavy Attack, his Stamina is now 15
+John Attacker has attacked with a Weak Attack, his Stamina is now 23
+Defense Warrior was attacked and his HP in now 117
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: 23, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 117, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Heavy Attack, his Stamina is now 18
+Defense Warrior was attacked and his HP in now 115
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: 18, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 115, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now 19
+Defense Warrior was attacked and his HP in now 114
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: 19, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 114, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Heavy Attack, his Stamina is now 14
 Defense Warrior was attacked and his HP in now 112
 =====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: 15, Strength: 6
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: 14, Strength: 2
 =====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 112, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 112, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
 =====================
-John Attacker has attacked with a Weak Attack, his Stamina is now 16
+John Attacker has attacked with a Heavy Attack, his Stamina is now 9
+Defense Warrior was attacked and his HP in now 110
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: 9, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 110, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now 10
 Defense Warrior was attacked and his HP in now 109
 =====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: 16, Strength: 6
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: 10, Strength: 2
 =====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 109, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 109, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
 =====================
-John Attacker has attacked with a Heavy Attack, his Stamina is now 11
-Defense Warrior was attacked and his HP in now 103
+John Attacker has attacked with a Heavy Attack, his Stamina is now 5
+Defense Warrior was attacked and his HP in now 107
 =====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: 11, Strength: 6
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: 5, Strength: 2
 =====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 103, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
-=====================
-John Attacker has attacked with a Weak Attack, his Stamina is now 12
-Defense Warrior was attacked and his HP in now 100
-=====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: 12, Strength: 6
-=====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 100, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
-=====================
-John Attacker has attacked with a Heavy Attack, his Stamina is now 7
-Defense Warrior was attacked and his HP in now 94
-=====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: 7, Strength: 6
-=====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 94, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
-=====================
-John Attacker has attacked with a Weak Attack, his Stamina is now 8
-Defense Warrior was attacked and his HP in now 91
-=====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: 8, Strength: 6
-=====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 91, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
-=====================
-John Attacker has attacked with a Heavy Attack, his Stamina is now 3
-Defense Warrior was attacked and his HP in now 85
-=====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: 3, Strength: 6
-=====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 85, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
-=====================
-John Attacker has attacked with a Weak Attack, his Stamina is now 4
-Defense Warrior was attacked and his HP in now 82
-=====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: 4, Strength: 6
-=====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 82, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
-=====================
-John Attacker has attacked with a Weak Attack, his Stamina is now 5
-Defense Warrior was attacked and his HP in now 79
-=====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: 5, Strength: 6
-=====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 79, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 107, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
 =====================
 John Attacker has attacked with a Heavy Attack, his Stamina is now 0
-Defense Warrior was attacked and his HP in now 73
+Defense Warrior was attacked and his HP in now 105
 =====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: 0, Strength: 6
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: 0, Strength: 2
 =====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 73, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 105, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
 =====================
 John Attacker has attacked with a Heavy Attack, his Stamina is now -5
-Defense Warrior was attacked and his HP in now 67
+Defense Warrior was attacked and his HP in now 103
 =====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: -5, Strength: 6
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -5, Strength: 2
 =====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 67, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 103, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
 =====================
 John Attacker has attacked with a Heavy Attack, his Stamina is now -10
-Defense Warrior was attacked and his HP in now 61
+Defense Warrior was attacked and his HP in now 101
 =====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: -10, Strength: 6
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -10, Strength: 2
 =====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 61, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 101, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
 =====================
 John Attacker has attacked with a Weak Attack, his Stamina is now -9
-Defense Warrior was attacked and his HP in now 58
+Defense Warrior was attacked and his HP in now 100
 =====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: -9, Strength: 6
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -9, Strength: 2
 =====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 58, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 100, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
 =====================
-John Attacker has attacked with a Weak Attack, his Stamina is now -8
-Defense Warrior was attacked and his HP in now 55
+John Attacker has attacked with a Heavy Attack, his Stamina is now -14
+Defense Warrior was attacked and his HP in now 98
 =====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: -8, Strength: 6
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -14, Strength: 2
 =====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 55, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 98, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
 =====================
-John Attacker has attacked with a Heavy Attack, his Stamina is now -13
-Defense Warrior was attacked and his HP in now 49
+John Attacker has attacked with a Weak Attack, his Stamina is now -13
+Defense Warrior was attacked and his HP in now 97
 =====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: -13, Strength: 6
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -13, Strength: 2
 =====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 49, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 97, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
 =====================
 John Attacker has attacked with a Weak Attack, his Stamina is now -12
-Defense Warrior was attacked and his HP in now 46
+Defense Warrior was attacked and his HP in now 96
 =====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: -12, Strength: 6
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -12, Strength: 2
 =====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 46, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 96, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
 =====================
 John Attacker has attacked with a Heavy Attack, his Stamina is now -17
-Defense Warrior was attacked and his HP in now 40
+Defense Warrior was attacked and his HP in now 94
 =====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: -17, Strength: 6
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -17, Strength: 2
 =====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 40, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 94, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
 =====================
-John Attacker has attacked with a Heavy Attack, his Stamina is now -22
-Defense Warrior was attacked and his HP in now 34
+John Attacker has attacked with a Weak Attack, his Stamina is now -16
+Defense Warrior was attacked and his HP in now 93
 =====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: -22, Strength: 6
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -16, Strength: 2
 =====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 34, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 93, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Heavy Attack, his Stamina is now -21
+Defense Warrior was attacked and his HP in now 91
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -21, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 91, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -20
+Defense Warrior was attacked and his HP in now 90
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -20, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 90, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -19
+Defense Warrior was attacked and his HP in now 89
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -19, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 89, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Heavy Attack, his Stamina is now -24
+Defense Warrior was attacked and his HP in now 87
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -24, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 87, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -23
+Defense Warrior was attacked and his HP in now 86
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -23, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 86, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -22
+Defense Warrior was attacked and his HP in now 85
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -22, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 85, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
 =====================
 John Attacker has attacked with a Heavy Attack, his Stamina is now -27
-Defense Warrior was attacked and his HP in now 28
+Defense Warrior was attacked and his HP in now 83
 =====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: -27, Strength: 6
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -27, Strength: 2
 =====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 28, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 83, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
 =====================
 John Attacker has attacked with a Weak Attack, his Stamina is now -26
+Defense Warrior was attacked and his HP in now 82
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -26, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 82, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Heavy Attack, his Stamina is now -31
+Defense Warrior was attacked and his HP in now 80
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -31, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 80, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -30
+Defense Warrior was attacked and his HP in now 79
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -30, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 79, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -29
+Defense Warrior was attacked and his HP in now 78
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -29, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 78, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Heavy Attack, his Stamina is now -34
+Defense Warrior was attacked and his HP in now 76
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -34, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 76, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -33
+Defense Warrior was attacked and his HP in now 75
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -33, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 75, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Heavy Attack, his Stamina is now -38
+Defense Warrior was attacked and his HP in now 73
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -38, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 73, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -37
+Defense Warrior was attacked and his HP in now 72
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -37, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 72, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -36
+Defense Warrior was attacked and his HP in now 71
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -36, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 71, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Heavy Attack, his Stamina is now -41
+Defense Warrior was attacked and his HP in now 69
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -41, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 69, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Heavy Attack, his Stamina is now -46
+Defense Warrior was attacked and his HP in now 67
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -46, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 67, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -45
+Defense Warrior was attacked and his HP in now 66
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -45, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 66, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -44
+Defense Warrior was attacked and his HP in now 65
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -44, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 65, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -43
+Defense Warrior was attacked and his HP in now 64
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -43, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 64, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Heavy Attack, his Stamina is now -48
+Defense Warrior was attacked and his HP in now 62
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -48, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 62, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Heavy Attack, his Stamina is now -53
+Defense Warrior was attacked and his HP in now 60
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -53, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 60, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -52
+Defense Warrior was attacked and his HP in now 59
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -52, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 59, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -51
+Defense Warrior was attacked and his HP in now 58
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -51, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 58, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -50
+Defense Warrior was attacked and his HP in now 57
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -50, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 57, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Heavy Attack, his Stamina is now -55
+Defense Warrior was attacked and his HP in now 55
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -55, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 55, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -54
+Defense Warrior was attacked and his HP in now 54
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -54, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 54, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Heavy Attack, his Stamina is now -59
+Defense Warrior was attacked and his HP in now 52
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -59, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 52, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Heavy Attack, his Stamina is now -64
+Defense Warrior was attacked and his HP in now 50
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -64, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 50, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -63
+Defense Warrior was attacked and his HP in now 49
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -63, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 49, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Heavy Attack, his Stamina is now -68
+Defense Warrior was attacked and his HP in now 47
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -68, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 47, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Heavy Attack, his Stamina is now -73
+Defense Warrior was attacked and his HP in now 45
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -73, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 45, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -72
+Defense Warrior was attacked and his HP in now 44
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -72, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 44, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Heavy Attack, his Stamina is now -77
+Defense Warrior was attacked and his HP in now 42
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -77, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 42, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -76
+Defense Warrior was attacked and his HP in now 41
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -76, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 41, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -75
+Defense Warrior was attacked and his HP in now 40
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -75, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 40, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -74
+Defense Warrior was attacked and his HP in now 39
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -74, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 39, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Heavy Attack, his Stamina is now -79
+Defense Warrior was attacked and his HP in now 37
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -79, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 37, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -78
+Defense Warrior was attacked and his HP in now 36
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -78, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 36, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -77
+Defense Warrior was attacked and his HP in now 35
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -77, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 35, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -76
+Defense Warrior was attacked and his HP in now 34
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -76, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 34, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -75
+Defense Warrior was attacked and his HP in now 33
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -75, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 33, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -74
+Defense Warrior was attacked and his HP in now 32
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -74, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 32, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -73
+Defense Warrior was attacked and his HP in now 31
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -73, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 31, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Heavy Attack, his Stamina is now -78
+Defense Warrior was attacked and his HP in now 29
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -78, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 29, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -77
+Defense Warrior was attacked and his HP in now 28
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -77, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 28, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Heavy Attack, his Stamina is now -82
+Defense Warrior was attacked and his HP in now 26
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -82, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 26, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -81
 Defense Warrior was attacked and his HP in now 25
 =====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: -26, Strength: 6
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -81, Strength: 2
 =====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 25, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 25, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
 =====================
-John Attacker has attacked with a Weak Attack, his Stamina is now -25
+John Attacker has attacked with a Weak Attack, his Stamina is now -80
+Defense Warrior was attacked and his HP in now 24
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -80, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 24, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -79
+Defense Warrior was attacked and his HP in now 23
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -79, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 23, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -78
 Defense Warrior was attacked and his HP in now 22
 =====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: -25, Strength: 6
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -78, Strength: 2
 =====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 22, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 22, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
 =====================
-John Attacker has attacked with a Weak Attack, his Stamina is now -24
+John Attacker has attacked with a Weak Attack, his Stamina is now -77
+Defense Warrior was attacked and his HP in now 21
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -77, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 21, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Heavy Attack, his Stamina is now -82
 Defense Warrior was attacked and his HP in now 19
 =====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: -24, Strength: 6
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -82, Strength: 2
 =====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 19, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 19, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
 =====================
-John Attacker has attacked with a Heavy Attack, his Stamina is now -29
+John Attacker has attacked with a Weak Attack, his Stamina is now -81
+Defense Warrior was attacked and his HP in now 18
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -81, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 18, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -80
+Defense Warrior was attacked and his HP in now 17
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -80, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 17, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -79
+Defense Warrior was attacked and his HP in now 16
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -79, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 16, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -78
+Defense Warrior was attacked and his HP in now 15
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -78, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 15, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Heavy Attack, his Stamina is now -83
 Defense Warrior was attacked and his HP in now 13
 =====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: -29, Strength: 6
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -83, Strength: 2
 =====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 13, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 13, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
 =====================
-John Attacker has attacked with a Weak Attack, his Stamina is now -28
-Defense Warrior was attacked and his HP in now 10
+John Attacker has attacked with a Heavy Attack, his Stamina is now -88
+Defense Warrior was attacked and his HP in now 11
 =====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: -28, Strength: 6
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -88, Strength: 2
 =====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 10, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 11, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
 =====================
-John Attacker has attacked with a Heavy Attack, his Stamina is now -33
+John Attacker has attacked with a Heavy Attack, his Stamina is now -93
+Defense Warrior was attacked and his HP in now 9
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -93, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 9, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -92
+Defense Warrior was attacked and his HP in now 8
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -92, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 8, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -91
+Defense Warrior was attacked and his HP in now 7
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -91, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 7, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -90
+Defense Warrior was attacked and his HP in now 6
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -90, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 6, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -89
+Defense Warrior was attacked and his HP in now 5
+=====================
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -89, Strength: 2
+=====================
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 5, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
+=====================
+John Attacker has attacked with a Weak Attack, his Stamina is now -88
 Defense Warrior was attacked and his HP in now 4
 =====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: -33, Strength: 6
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -88, Strength: 2
 =====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 4, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 4, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
 =====================
-John Attacker has attacked with a Weak Attack, his Stamina is now -32
-Defense Warrior was attacked and his HP in now 1
+John Attacker has attacked with a Heavy Attack, his Stamina is now -93
+Defense Warrior was attacked and his HP in now 2
 =====================
-Character id: 8d0a694c-d1fd-4a45-b2cb-041e686ea7e4, name: John Attacker, hp: 163, isAlive: true 
-Character Class: Warrior ,Stamina: -32, Strength: 6
+Character id: a8d625b0-b080-4e8e-8063-3349138e7e05, name: John Attacker, hp: 118, isAlive: true 
+Character Class: Warrior ,Stamina: -93, Strength: 2
 =====================
-Character id: b55cb605-ac2c-442c-8c06-2d12465bcd1f, name: Defense Warrior, hp: 1, isAlive: true 
-Character Class: Warrior ,Stamina: 45, Strength: 1
+Character id: f40fa94a-1e8e-4388-bd6d-25538b9e8a2b, name: Defense Warrior, hp: 2, isAlive: true 
+Character Class: Warrior ,Stamina: 29, Strength: 4
 =====================
-John Attacker has attacked with a Weak Attack, his Stamina is now -31
-Defense Warrior was attacked and his HP in now -2
+John Attacker has attacked with a Heavy Attack, his Stamina is now -98
+Defense Warrior was attacked and his HP in now 0
 =====================

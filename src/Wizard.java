@@ -25,6 +25,7 @@ public class Wizard extends Character implements Attacker {
     }
 
     public void setMana(int mana) {
+
         this.mana = (int) (Math.random() * 40 + 10);
     }
     public void setManaInAttack(int mana){
