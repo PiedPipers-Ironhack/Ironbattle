@@ -41,31 +41,33 @@ public class Warrior extends Character implements Attacker {
 
     @Override
     public String toString() {
-        return Warrior.super.toString() + ", character class: Warrior ," +
+        return Warrior.super.toString() + "\n" + "Character class: Warrior ," +
                 "stamina: " + stamina +
-                ", strength: " + strength + "\n";
+                ", strength: " + strength + "\n" + "=====================";
     }
 
     @Override
-    public void attack(Character character) {
+    public String attack(Character character) {
         int random = (Math.random()<= 0.5)?1:2;
         System.out.println("random attack: " + random);
         if( random == 1){
             int resultHp = character.getHp() - this.strength;
             character.setHpInAttack(resultHp);
             setStaminaInAttack(this.stamina-5);
-            System.out.println(getName() + " has attacked with a heavy attack");
+            //System.out.println(getName() + " has attacked with a heavy attack");
+            return getName() + " has attacked with a Heavy Attack, his Stamina is now " + this.stamina + "\n" + character.getName() + " was attacked and his HP in now " + character.getHp() + "\n" + "=====================";
 
         } else if(random == 2 || this.stamina < 5) {
             int resultHp = character.getHp() - (this.strength/2);
             character.setHpInAttack(resultHp);
             setStaminaInAttack(this.stamina+1);
-            System.out.println(getName() + " has attacked with a weak attack");
+            //System.out.println(getName() + " has attacked with a Weak Attack");
+            return getName() + " has attacked with a Weak Attack, his Stamina is now " + this.stamina + "\n" + character.getName() + " was attacked and his HP in now " + character.getHp() + "\n" + "=====================";
         } else if (this.stamina < 1) {
             setStaminaInAttack(this.stamina += 2);
-            System.out.println(getName() + " does not have enough stamina to attack");
+            //System.out.println(getName() + " does not have enough Stamina to attack");
             
         }
-
+        return getName() + " does not have enough Stamina to attack, his Stamina got restored to " + this.stamina + "\n" ;
     }
 }

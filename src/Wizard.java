@@ -40,7 +40,7 @@ public class Wizard extends Character implements Attacker {
     }
 
     @Override
-    public void attack(Character character) {
+    public String attack(Character character) {
 
         int random = (Math.random()<= 0.5)?1:2;
         System.out.println("random attack: " + random);
@@ -49,25 +49,29 @@ public class Wizard extends Character implements Attacker {
             int resultHp = character.getHp() - this.intelligence;
             character.setHpInAttack(resultHp);
             setManaInAttack(this.mana-5);
-            System.out.println(getName() + " has attacked with a Fireball");
+            //System.out.println(getName() + " has attacked with a Fireball");
+            return getName() + " has attacked with a Fireball, his Mana has reduced to " + this.mana + "\n" + character.getName() + " was attacked and his HP in now " + character.getHp() + "\n" + "=====================";
 
         } else if(random == 2 || getMana() < 5) {
             int resultHp = character.getHp() - 2;
             character.setHpInAttack(resultHp);
             setManaInAttack(this.mana+1);
-            System.out.println(getName() + " has attacked with a Staff Hit");
+            //System.out.println(getName() + " has attacked with a Staff Hit, his Mana has reduced to " + this.mana);
+            return getName() + " has attacked with a Staff Hit his mana has reduced to " + this.mana + "\n" + character.getName() + " was attacked and his HP in now " + character.getHp() + "\n" + "=====================";
+
         } else if (getMana() < 1) {
             setManaInAttack(this.mana+ 2);
-            System.out.println(getName() + " does not have enough mana to cast a spell");
+            //System.out.println(getName() + " does not have enough Mana to cast a spell");
 
         }
+        return getName() + " does not have enough mana to cast a spell, his Mana was restored to " + this.mana + "\n" + "=====================";
 
     }
 
     @Override
     public String toString() {
-        return Wizard.super.toString() + ", character class: Warrior ," +
+        return Wizard.super.toString() + "\n" + "Character class: Warrior ," +
                 "mana: " + mana +
-                ", intelligence: " + intelligence + "\n";
+                ", intelligence: " + intelligence + "\n" + "=====================";
     }
 }

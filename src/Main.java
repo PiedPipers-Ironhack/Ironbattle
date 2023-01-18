@@ -16,12 +16,14 @@ public class Main {
         //System.out.println("attacker strength: " + test.getStrength());
         //System.out.println("attacker stamina: " + test.getStamina());
         System.out.println("attacker mana: " + test2.getMana());
-        test2.attack(test);
+        //test2.attack(test);
         System.out.println("attacker remaining mana: " + test2.getMana());
         //System.out.println("attacker remaining stamina: " + test.getStamina());
         System.out.println("remaining hp defense: " + test.getHp());
-
-        writer.write((test.toString()));
+        writer.write((test.toString()) + "\n");
+        writer.write(test2.toString() + "\n");
+        //fix bug
+        writer.write(test2.attack(test)+ "\n");
         writer.close();
 
 
