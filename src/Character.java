@@ -1,5 +1,7 @@
+import java.util.UUID;
+
 public class Character {
-    private String id;
+    private final String id = String.valueOf(UUID.randomUUID());
     private String name;
     private int hp;
     private boolean isAlive = true;
@@ -7,6 +9,7 @@ public class Character {
     public Character(String name, int hp) {
         setName(name);
         setHp(hp);
+
     }
 
     public Character(String name) {
@@ -18,9 +21,6 @@ public class Character {
         return id;
     }
 
-    public void setId(String id) {
-        this.id = id;
-    }
 
     public String getName() {
         return name;
