@@ -46,14 +46,14 @@ public class Wizard extends Character implements Attacker {
         int random = (Math.random()<= 0.5)?1:2;
         System.out.println("random attack: " + random);
 
-        if( random == 1){
+        if( random == 1 && this.mana >= 5){
             int resultHp = character.getHp() - this.intelligence;
             character.setHpInAttack(resultHp);
             setManaInAttack(this.mana-5);
             //System.out.println(getName() + " has attacked with a Fireball");
             return getName() + " has attacked with a Fireball, his Mana has reduced to " + this.mana + "\n" + character.getName() + " was attacked and his HP in now " + character.getHp() + "\n" + "=====================";
 
-        } else if(random == 2 || getMana() < 5) {
+        } else if(random == 2 && character.getHp() > 0 || getMana() < 5 && character.getHp() > 0) {
             int resultHp = character.getHp() - 2;
             character.setHpInAttack(resultHp);
             setManaInAttack(this.mana+1);

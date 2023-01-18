@@ -12,12 +12,33 @@ public class Battle {
         //System.out.println("attacker stamina: " + test.getStamina());
         //System.out.println("attacker mana: " + test2.getMana());
         //test2.attack(test);
-        writer.write((attacker.toString()) + "\n");
-        writer.write(defense.toString() + "\n");
-        writer.write(attacker.attack(defense)+ "\n");
-        writer.write( "After attack \n");
-        writer.write((attacker.toString()) + "\n");
-        writer.write(defense.toString() + "\n");
+        while (defense.isAlive() && attacker.isAlive()) {
+
+
+
+            writer.write((attacker.toString()) + "\n");
+            writer.write(defense.toString() + "\n");
+            writer.write(attacker.attack(defense) + "\n");
+
+
+            writer.write((defense.toString()) + "\n");
+            writer.write(attacker.toString() + "\n");
+            writer.write(defense.attack(attacker) + "\n");
+
+
+            if(defense.getHp() <= 0){
+                defense.setAlive(false);
+                defense.setHpInAttack(0);
+                writer.write( attacker.getName() + " has Won!!\n");
+
+            }
+            if(attacker.getHp() <= 0){
+                attacker.setAlive(false);
+                attacker.setHpInAttack(0);
+                writer.write( defense.getName() + " has Won!!\n");
+
+            }
+        }
         writer.close();
         //System.out.println("attacker remaining mana: " + test2.getMana());
         //System.out.println("attacker remaining stamina: " + test.getStamina());
@@ -34,9 +55,33 @@ public class Battle {
         //System.out.println("attacker strength: " + test.getStrength());
         //System.out.println("attacker stamina: " + test.getStamina());
         //System.out.println("attacker mana: " + test2.getMana());
-        writer.write((attacker.toString()) + "\n");
-        writer.write(defense.toString() + "\n");
-        writer.write(attacker.attack(defense)+ "\n");
+        while (defense.isAlive() && attacker.isAlive()) {
+
+
+
+            writer.write((attacker.toString()) + "\n");
+            writer.write(defense.toString() + "\n");
+            writer.write(attacker.attack(defense) + "\n");
+
+
+            writer.write((defense.toString()) + "\n");
+            writer.write(attacker.toString() + "\n");
+            writer.write(defense.attack(attacker) + "\n");
+
+
+            if(defense.getHp() <= 0){
+                defense.setAlive(false);
+                defense.setHpInAttack(0);
+                writer.write( attacker.getName() + " has Won!!\n");
+
+            }
+            if(attacker.getHp() <= 0){
+                attacker.setAlive(false);
+                attacker.setHpInAttack(0);
+                writer.write( defense.getName() + " has Won!!\n");
+
+            }
+        }
         writer.close();
         //System.out.println("attacker remaining mana: " + test2.getMana());
         //System.out.println("attacker remaining stamina: " + test.getStamina());
@@ -53,9 +98,33 @@ public class Battle {
         //System.out.println("attacker strength: " + test.getStrength());
         //System.out.println("attacker stamina: " + test.getStamina());
         //System.out.println("attacker mana: " + test2.getMana());
-        writer.write((attacker.toString()) + "\n");
-        writer.write(defense.toString() + "\n");
-        writer.write(attacker.attack(defense)+ "\n");
+        while (defense.isAlive() && attacker.isAlive()) {
+
+
+
+            writer.write((attacker.toString()) + "\n");
+            writer.write(defense.toString() + "\n");
+            writer.write(attacker.attack(defense) + "\n");
+
+
+            writer.write((defense.toString()) + "\n");
+            writer.write(attacker.toString() + "\n");
+            writer.write(defense.attack(attacker) + "\n");
+
+
+            if(defense.getHp() <= 0){
+                defense.setAlive(false);
+                defense.setHpInAttack(0);
+                writer.write( attacker.getName() + " has Won!!\n");
+
+            }
+            if(attacker.getHp() <= 0){
+                attacker.setAlive(false);
+                attacker.setHpInAttack(0);
+                writer.write( defense.getName() + " has Won!!\n");
+
+            }
+        }
         writer.close();
         //System.out.println("attacker remaining mana: " + test2.getMana());
         //System.out.println("attacker remaining stamina: " + test.getStamina());

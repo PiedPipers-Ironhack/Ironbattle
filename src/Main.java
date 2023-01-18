@@ -13,7 +13,7 @@ public class Main {
         Warrior test = new Warrior("John Attacker");
         Warrior test1 = new Warrior("Defense Warrior");
         Wizard test2 = new Wizard("Voldemort");
-        Battle.battleStart(test,test1);
+        Battle.battleStart(test,test2);
         System.out.println(test1.getHp());
 
 
