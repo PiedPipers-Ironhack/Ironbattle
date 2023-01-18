@@ -1,73 +1,55 @@
-Character id: 8abd706c-1edf-47ae-a920-8af3f95a237d, name: Summer, hp: 96, isAlive: true 
-Character Class: Wizard ,Mana: 45, Intelligence: 16
+Character id: ecfba1c2-41d0-406a-9250-f0a64925f667, name: aaa, hp: 80, isAlive: true 
+Character Class: Wizard ,Mana: 32, Intelligence: 46
 =====================
-Character id: 7321936d-9578-4dd9-8f1d-eb31d900333f, name: Orchestra, hp: 50, isAlive: true 
-Character Class: Wizard ,Mana: 35, Intelligence: 30
+Character id: 88019763-14ca-4429-9afc-f21d7669dd41, name: fff, hp: 78, isAlive: true 
+Character Class: Wizard ,Mana: 23, Intelligence: 2
 =====================
-Summer has attacked with a Staff Hit, his mana has reduced to 46
-Orchestra was attacked and his HP in now 48
+aaa has attacked with a Fireball, his Mana has reduced to 27
+fff was attacked and his HP in now 32
 =====================
-Character id: 7321936d-9578-4dd9-8f1d-eb31d900333f, name: Orchestra, hp: 48, isAlive: true 
-Character Class: Wizard ,Mana: 35, Intelligence: 30
+Character id: 88019763-14ca-4429-9afc-f21d7669dd41, name: fff, hp: 32, isAlive: true 
+Character Class: Wizard ,Mana: 23, Intelligence: 2
 =====================
-Character id: 8abd706c-1edf-47ae-a920-8af3f95a237d, name: Summer, hp: 96, isAlive: true 
-Character Class: Wizard ,Mana: 46, Intelligence: 16
+Character id: ecfba1c2-41d0-406a-9250-f0a64925f667, name: aaa, hp: 80, isAlive: true 
+Character Class: Wizard ,Mana: 27, Intelligence: 46
 =====================
-Orchestra has attacked with a Fireball, his Mana has reduced to 30
-Summer was attacked and his HP in now 66
+fff has attacked with a Fireball, his Mana has reduced to 18
+aaa was attacked and his HP in now 78
 =====================
-Character id: 8abd706c-1edf-47ae-a920-8af3f95a237d, name: Summer, hp: 66, isAlive: true 
-Character Class: Wizard ,Mana: 46, Intelligence: 16
+Character id: ecfba1c2-41d0-406a-9250-f0a64925f667, name: aaa, hp: 78, isAlive: true 
+Character Class: Wizard ,Mana: 27, Intelligence: 46
 =====================
-Character id: 7321936d-9578-4dd9-8f1d-eb31d900333f, name: Orchestra, hp: 48, isAlive: true 
-Character Class: Wizard ,Mana: 30, Intelligence: 30
+Character id: 88019763-14ca-4429-9afc-f21d7669dd41, name: fff, hp: 32, isAlive: true 
+Character Class: Wizard ,Mana: 18, Intelligence: 2
 =====================
-Summer has attacked with a Fireball, his Mana has reduced to 41
-Orchestra was attacked and his HP in now 32
+aaa has attacked with a Staff Hit, his mana has reduced to 28
+fff was attacked and his HP in now 30
 =====================
-Character id: 7321936d-9578-4dd9-8f1d-eb31d900333f, name: Orchestra, hp: 32, isAlive: true 
-Character Class: Wizard ,Mana: 30, Intelligence: 30
+Character id: 88019763-14ca-4429-9afc-f21d7669dd41, name: fff, hp: 30, isAlive: true 
+Character Class: Wizard ,Mana: 18, Intelligence: 2
 =====================
-Character id: 8abd706c-1edf-47ae-a920-8af3f95a237d, name: Summer, hp: 66, isAlive: true 
-Character Class: Wizard ,Mana: 41, Intelligence: 16
+Character id: ecfba1c2-41d0-406a-9250-f0a64925f667, name: aaa, hp: 78, isAlive: true 
+Character Class: Wizard ,Mana: 28, Intelligence: 46
 =====================
-Orchestra has attacked with a Fireball, his Mana has reduced to 25
-Summer was attacked and his HP in now 36
+fff has attacked with a Staff Hit, his mana has reduced to 19
+aaa was attacked and his HP in now 76
 =====================
-Character id: 8abd706c-1edf-47ae-a920-8af3f95a237d, name: Summer, hp: 36, isAlive: true 
-Character Class: Wizard ,Mana: 41, Intelligence: 16
+Character id: ecfba1c2-41d0-406a-9250-f0a64925f667, name: aaa, hp: 76, isAlive: true 
+Character Class: Wizard ,Mana: 28, Intelligence: 46
 =====================
-Character id: 7321936d-9578-4dd9-8f1d-eb31d900333f, name: Orchestra, hp: 32, isAlive: true 
-Character Class: Wizard ,Mana: 25, Intelligence: 30
+Character id: 88019763-14ca-4429-9afc-f21d7669dd41, name: fff, hp: 30, isAlive: true 
+Character Class: Wizard ,Mana: 19, Intelligence: 2
 =====================
-Summer has attacked with a Fireball, his Mana has reduced to 36
-Orchestra was attacked and his HP in now 16
+aaa has attacked with a Fireball, his Mana has reduced to 23
+fff was attacked and his HP in now -16
 =====================
-Character id: 7321936d-9578-4dd9-8f1d-eb31d900333f, name: Orchestra, hp: 16, isAlive: true 
-Character Class: Wizard ,Mana: 25, Intelligence: 30
+Character id: 88019763-14ca-4429-9afc-f21d7669dd41, name: fff, hp: -16, isAlive: true 
+Character Class: Wizard ,Mana: 19, Intelligence: 2
 =====================
-Character id: 8abd706c-1edf-47ae-a920-8af3f95a237d, name: Summer, hp: 36, isAlive: true 
-Character Class: Wizard ,Mana: 36, Intelligence: 16
+Character id: ecfba1c2-41d0-406a-9250-f0a64925f667, name: aaa, hp: 76, isAlive: true 
+Character Class: Wizard ,Mana: 23, Intelligence: 46
 =====================
-Orchestra has attacked with a Staff Hit, his mana has reduced to 26
-Summer was attacked and his HP in now 34
+fff has attacked with a Staff Hit, his mana has reduced to 20
+aaa was attacked and his HP in now 74
 =====================
-Character id: 8abd706c-1edf-47ae-a920-8af3f95a237d, name: Summer, hp: 34, isAlive: true 
-Character Class: Wizard ,Mana: 36, Intelligence: 16
-=====================
-Character id: 7321936d-9578-4dd9-8f1d-eb31d900333f, name: Orchestra, hp: 16, isAlive: true 
-Character Class: Wizard ,Mana: 26, Intelligence: 30
-=====================
-Summer has attacked with a Fireball, his Mana has reduced to 31
-Orchestra was attacked and his HP in now 0
-=====================
-Character id: 7321936d-9578-4dd9-8f1d-eb31d900333f, name: Orchestra, hp: 0, isAlive: true 
-Character Class: Wizard ,Mana: 26, Intelligence: 30
-=====================
-Character id: 8abd706c-1edf-47ae-a920-8af3f95a237d, name: Summer, hp: 34, isAlive: true 
-Character Class: Wizard ,Mana: 31, Intelligence: 16
-=====================
-Orchestra has attacked with a Staff Hit, his mana has reduced to 27
-Summer was attacked and his HP in now 32
-=====================
-Summer has Won!!
+aaa has Won!!
