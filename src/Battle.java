@@ -13,7 +13,7 @@ public class Battle {
         System.out.println("1 Random Battle Players");
         System.out.println("2 Customize your Battle");
         Scanner input = new Scanner(System.in);
-        Integer selection = Integer.parseInt(input.nextLine());
+        int selection = Integer.parseInt(input.nextLine());
         if (selection == 1){
             Battle.randomBattleStart();
         } else if (selection == 2) {
@@ -217,9 +217,7 @@ public class Battle {
        characterList.add(pray);
 
        Collections.shuffle(characterList);
-       /*for (int i = 0; i< 2; i++){
-           battleStart(characterList[i], characterList[i+1]);
-       }*/
+
        if (characterList.get(0) instanceof Wizard && characterList.get(1) instanceof Wizard ){
            battleStart((Wizard) characterList.get(0), (Wizard) characterList.get(1));
        } else if (characterList.get(0) instanceof Wizard && characterList.get(1) instanceof Warrior) {
@@ -230,9 +228,7 @@ public class Battle {
            battleStart((Warrior) characterList.get(0), (Warrior) characterList.get(1));
        }
 
-       /*for (Character character : characterList){
-           System.out.println(character);
-       }*/
+
 
    }
 
