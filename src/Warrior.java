@@ -5,8 +5,9 @@ public class Warrior extends Character implements Attacker {
 
     public Warrior(String name, int hp, int stamina, int strength) {
         super(name, hp);
-        setStamina(stamina);
-        setStrength(strength);
+        setStaminaInput(stamina);
+        setStrengthInput(strength);
+        setHpInput(hp);
     }
     public void setHp(int hp) {
         super.setHp(99 + (int) Math.ceil(Math.random() * 101));
@@ -28,12 +29,12 @@ public class Warrior extends Character implements Attacker {
         this.stamina = (int) (Math.random() * 40 + 10);
     }
     // Control input stamina
-    /*public void setStamina(int stamina){
+    public void setStaminaInput(int stamina){
         if (stamina < 10 || stamina > 50){
             throw new IllegalArgumentException("Stamina should be between 10 and 50");
         }
         this.stamina = stamina;
-    }*/
+    }
     public void setStaminaInAttack(int stamina){
         this.stamina = stamina;
     }
@@ -44,6 +45,20 @@ public class Warrior extends Character implements Attacker {
 
     public void setStrength(int strength) {
         this.strength = (int) (Math.random() * 9 + 1);
+    }
+
+    public void setStrengthInput(int strength){
+        if (strength < 1 || strength > 10){
+            throw new IllegalArgumentException("Strength should be between 1 and 10");
+        }
+        this.strength = strength;
+    }
+    public void setHpInput(int hp){
+        if (hp < 100 || hp > 200){
+            throw new IllegalArgumentException("Hp should be between 100 and 200");
+        }
+        super.setHp(hp);
+
     }
 
     @Override

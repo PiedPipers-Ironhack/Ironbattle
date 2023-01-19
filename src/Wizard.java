@@ -5,8 +5,9 @@ public class Wizard extends Character implements Attacker {
 
     public Wizard(String name, int hp, int mana, int intelligence) {
         super(name, hp);
-        setMana(mana);
-        setIntelligence(intelligence);
+        setManaInput(mana);
+        setIntelligenceInput(intelligence);
+        setHpInput2(hp);
     }
 
     public Wizard(String name) {
@@ -18,6 +19,12 @@ public class Wizard extends Character implements Attacker {
     public void setHp(int hp) {
         super.setHp(49 + (int) Math.ceil(Math.random() * 51));
 
+    }
+    public void setHpInput2(int hp){
+        if (hp < 50 || hp > 100){
+            throw new IllegalArgumentException("Hp should be between 50 and 100");
+        }
+        super.setHp(hp);
     }
 
     public int getMana() {
@@ -31,6 +38,12 @@ public class Wizard extends Character implements Attacker {
     public void setManaInAttack(int mana){
         this.mana = mana;
     }
+    public void setManaInput(int mana){
+        if (mana < 10 || mana > 50){
+            throw new IllegalArgumentException("Mana should be between 10 and 50");
+        }
+        this.mana = mana;
+    }
 
     public int getIntelligence() {
         return intelligence;
@@ -38,6 +51,12 @@ public class Wizard extends Character implements Attacker {
 
     public void setIntelligence(int intelligence) {
         this.intelligence = (int) (Math.random() * 49 + 1);
+    }
+    public void setIntelligenceInput(int intelligence){
+        if (intelligence < 1 || intelligence > 50){
+            throw new IllegalArgumentException("Intelligence should be between 1 and 50");
+        }
+        this.intelligence = intelligence;
     }
 
     @Override
