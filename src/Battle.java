@@ -14,160 +14,163 @@ public class Battle {
         System.out.println("2 Customize your Battle");
         Scanner input = new Scanner(System.in);
         int selection = Integer.parseInt(input.nextLine());
-        if (selection == 1){
-            Battle.randomBattleStart();
-        } else if (selection == 2) {
-            System.out.println("Choose 1 for random stats or choose 2 to customize your stats");
-            Integer choose = Integer.parseInt(input.nextLine());
-            if(choose == 1){
-                System.out.println("You chose random stats");
-                System.out.println("Choose first player Clan");
-                System.out.println("Choose: 1 -> Warrior");
-                System.out.println("Choose: 2 -> Wizard");
-                Integer choose1 = Integer.parseInt(input.nextLine());
-                if(choose1 == 1){
-                    System.out.println("You chose Warrior!!");
-                    System.out.println("Type your name");
-                    String name = input.nextLine();
-                    Warrior newWarrior = new Warrior(name);
-                    System.out.println("Choose second player Clan");
+        boolean inputIsCorrect = false;
+
+            if (selection == 1) {
+                Battle.randomBattleStart();
+            } else if (selection == 2) {
+                System.out.println("Choose 1 for random stats or choose 2 to customize your stats");
+                Integer choose = Integer.parseInt(input.nextLine());
+                if (choose == 1) {
+                    System.out.println("You chose random stats");
+                    System.out.println("Choose first player Clan");
                     System.out.println("Choose: 1 -> Warrior");
                     System.out.println("Choose: 2 -> Wizard");
-                    Integer choose2 = Integer.parseInt(input.nextLine());
-                    if (choose2 == 1){
+                    Integer choose1 = Integer.parseInt(input.nextLine());
+                    if (choose1 == 1) {
                         System.out.println("You chose Warrior!!");
                         System.out.println("Type your name");
-                        String name1 = input.nextLine();
-                        Warrior newWarrior1 = new Warrior(name1);
-                        Battle.battleStart(newWarrior, newWarrior1);
+                        String name = input.nextLine();
+                        Warrior newWarrior = new Warrior(name);
+                        System.out.println("Choose second player Clan");
+                        System.out.println("Choose: 1 -> Warrior");
+                        System.out.println("Choose: 2 -> Wizard");
+                        Integer choose2 = Integer.parseInt(input.nextLine());
+                        if (choose2 == 1) {
+                            System.out.println("You chose Warrior!!");
+                            System.out.println("Type your name");
+                            String name1 = input.nextLine();
+                            Warrior newWarrior1 = new Warrior(name1);
+                            Battle.battleStart(newWarrior, newWarrior1);
 
-                    } else if( choose2 == 2){
+                        } else if (choose2 == 2) {
+                            System.out.println("You chose Wizard!!");
+                            System.out.println("Type your name");
+                            String name1 = input.nextLine();
+                            Wizard newWizard = new Wizard(name1);
+                            Battle.battleStart(newWarrior, newWizard);
+                        }
+
+
+                    } else if (choose1 == 2) {
                         System.out.println("You chose Wizard!!");
                         System.out.println("Type your name");
-                        String name1 = input.nextLine();
-                        Wizard newWizard = new Wizard(name1);
-                        Battle.battleStart(newWarrior, newWizard);
+                        String name2 = input.nextLine();
+                        Wizard newWizard1 = new Wizard(name2);
+                        System.out.println("Choose second player Clan");
+                        System.out.println("Choose: 1 -> Warrior");
+                        System.out.println("Choose: 2 -> Wizard");
+                        Integer choose3 = Integer.parseInt(input.nextLine());
+
+                        if (choose3 == 1) {
+                            System.out.println("You chose Warrior!!");
+                            System.out.println("Type your name");
+                            String name3 = input.nextLine();
+                            Warrior newWarrior2 = new Warrior(name3);
+                            Battle.battleStart(newWizard1, newWarrior2);
+                        } else if (choose3 == 2) {
+                            System.out.println("You chose Wizard!!");
+                            System.out.println("Type your name");
+                            String name4 = input.nextLine();
+                            Wizard newWizard3 = new Wizard(name4);
+                            Battle.battleStart(newWizard1, newWizard3);
+                        }
                     }
 
-
-                } else if (choose1 == 2){
-                    System.out.println("You chose Wizard!!");
-                    System.out.println("Type your name");
-                    String name2 = input.nextLine();
-                    Wizard newWizard1 = new Wizard(name2);
-                    System.out.println("Choose second player Clan");
+                } else if (choose == 2) {
+                    System.out.println("You chose Custom Battle");
+                    System.out.println("Choose first player Clan");
                     System.out.println("Choose: 1 -> Warrior");
                     System.out.println("Choose: 2 -> Wizard");
-                    Integer choose3 = Integer.parseInt(input.nextLine());
-
-                    if (choose3 == 1){
+                    Integer choose1 = Integer.parseInt(input.nextLine());
+                    if (choose1 == 1) {
                         System.out.println("You chose Warrior!!");
                         System.out.println("Type your name");
-                        String name3 = input.nextLine();
-                        Warrior newWarrior2 = new Warrior(name3);
-                        Battle.battleStart(newWizard1, newWarrior2);
-                    } else if (choose3 == 2){
-                        System.out.println("You chose Wizard!!");
-                        System.out.println("Type your name");
-                        String name4 = input.nextLine();
-                        Wizard newWizard3 = new Wizard(name4);
-                        Battle.battleStart(newWizard1, newWizard3);
-                    }
-                }
-
-            } else if (choose ==2){
-                System.out.println("You chose Custom Battle");
-                System.out.println("Choose first player Clan");
-                System.out.println("Choose: 1 -> Warrior");
-                System.out.println("Choose: 2 -> Wizard");
-                Integer choose1 = Integer.parseInt(input.nextLine());
-                if(choose1 == 1){
-                    System.out.println("You chose Warrior!!");
-                    System.out.println("Type your name");
-                    String name = input.nextLine();
-                    System.out.println("Type your HP between 100-200");
-                    Integer hp = Integer.parseInt(input.nextLine());
-                    System.out.println("Type your Stamina between 10-50");
-                    Integer stamina = Integer.parseInt(input.nextLine());
-                    System.out.println("Type your Strength between 1-10");
-                    Integer strength = Integer.parseInt(input.nextLine());
-                    Warrior newWarrior = new Warrior(name, hp, stamina, strength);
-                    System.out.println("Choose second player Clan");
-                    System.out.println("Choose: 1 -> Warrior");
-                    System.out.println("Choose: 2 -> Wizard");
-                    Integer choose2 = Integer.parseInt(input.nextLine());
-                    if (choose2 == 1){
-                        System.out.println("You chose Warrior!!");
-                        System.out.println("Type your name");
-                        String name1 = input.nextLine();
+                        String name = input.nextLine();
                         System.out.println("Type your HP between 100-200");
-                        Integer hp1 = Integer.parseInt(input.nextLine());
+                        Integer hp = Integer.parseInt(input.nextLine());
                         System.out.println("Type your Stamina between 10-50");
-                        Integer stamina1 = Integer.parseInt(input.nextLine());
+                        Integer stamina = Integer.parseInt(input.nextLine());
                         System.out.println("Type your Strength between 1-10");
-                        Integer strength1 = Integer.parseInt(input.nextLine());
-                        Warrior newWarrior1 = new Warrior(name1, hp1, stamina1, strength1);
-                        Battle.battleStart(newWarrior, newWarrior1);
+                        Integer strength = Integer.parseInt(input.nextLine());
+                        Warrior newWarrior = new Warrior(name, hp, stamina, strength);
+                        System.out.println("Choose second player Clan");
+                        System.out.println("Choose: 1 -> Warrior");
+                        System.out.println("Choose: 2 -> Wizard");
+                        Integer choose2 = Integer.parseInt(input.nextLine());
+                        if (choose2 == 1) {
+                            System.out.println("You chose Warrior!!");
+                            System.out.println("Type your name");
+                            String name1 = input.nextLine();
+                            System.out.println("Type your HP between 100-200");
+                            Integer hp1 = Integer.parseInt(input.nextLine());
+                            System.out.println("Type your Stamina between 10-50");
+                            Integer stamina1 = Integer.parseInt(input.nextLine());
+                            System.out.println("Type your Strength between 1-10");
+                            Integer strength1 = Integer.parseInt(input.nextLine());
+                            Warrior newWarrior1 = new Warrior(name1, hp1, stamina1, strength1);
+                            Battle.battleStart(newWarrior, newWarrior1);
 
-                    } else if( choose2 == 2){
+                        } else if (choose2 == 2) {
+                            System.out.println("You chose Wizard!!");
+                            System.out.println("Type your name");
+                            String name1 = input.nextLine();
+                            System.out.println("Type your HP between 50-100");
+                            Integer hp2 = Integer.parseInt(input.nextLine());
+                            System.out.println("Type your Mana between 10-50");
+                            Integer stamina2 = Integer.parseInt(input.nextLine());
+                            System.out.println("Type your Intelligence between 1-50");
+                            Integer intelligence2 = Integer.parseInt(input.nextLine());
+                            Wizard newWizard = new Wizard(name1, hp2, stamina2, intelligence2);
+                            Battle.battleStart(newWarrior, newWizard);
+                        }
+
+
+                    } else if (choose1 == 2) {
                         System.out.println("You chose Wizard!!");
                         System.out.println("Type your name");
-                        String name1 = input.nextLine();
+                        String name2 = input.nextLine();
                         System.out.println("Type your HP between 50-100");
-                        Integer hp2 = Integer.parseInt(input.nextLine());
+                        Integer hp3 = Integer.parseInt(input.nextLine());
                         System.out.println("Type your Mana between 10-50");
-                        Integer stamina2 = Integer.parseInt(input.nextLine());
+                        Integer stamina3 = Integer.parseInt(input.nextLine());
                         System.out.println("Type your Intelligence between 1-50");
-                        Integer intelligence2 = Integer.parseInt(input.nextLine());
-                        Wizard newWizard = new Wizard(name1, hp2, stamina2, intelligence2);
-                        Battle.battleStart(newWarrior, newWizard);
-                    }
+                        Integer intelligence3 = Integer.parseInt(input.nextLine());
+                        Wizard newWizard1 = new Wizard(name2, hp3, stamina3, intelligence3);
+                        System.out.println("Choose second player Clan");
+                        System.out.println("Choose: 1 -> Warrior");
+                        System.out.println("Choose: 2 -> Wizard");
+                        Integer choose3 = Integer.parseInt(input.nextLine());
 
-
-                } else if (choose1 == 2){
-                    System.out.println("You chose Wizard!!");
-                    System.out.println("Type your name");
-                    String name2 = input.nextLine();
-                    System.out.println("Type your HP between 50-100");
-                    Integer hp3 = Integer.parseInt(input.nextLine());
-                    System.out.println("Type your Mana between 10-50");
-                    Integer stamina3 = Integer.parseInt(input.nextLine());
-                    System.out.println("Type your Intelligence between 1-50");
-                    Integer intelligence3 = Integer.parseInt(input.nextLine());
-                    Wizard newWizard1 = new Wizard(name2, hp3, stamina3, intelligence3);
-                    System.out.println("Choose second player Clan");
-                    System.out.println("Choose: 1 -> Warrior");
-                    System.out.println("Choose: 2 -> Wizard");
-                    Integer choose3 = Integer.parseInt(input.nextLine());
-
-                    if (choose3 == 1){
-                        System.out.println("You chose Warrior!!");
-                        System.out.println("Type your name");
-                        String name3 = input.nextLine();
-                        System.out.println("Type your HP between 100-200");
-                        Integer hp4 = Integer.parseInt(input.nextLine());
-                        System.out.println("Type your Stamina between 10-50");
-                        Integer stamina4 = Integer.parseInt(input.nextLine());
-                        System.out.println("Type your Strength between 1-10");
-                        Integer strength4 = Integer.parseInt(input.nextLine());
-                        Warrior newWarrior4 = new Warrior(name3, hp4, stamina4, strength4);
-                        Battle.battleStart(newWizard1, newWarrior4);
-                    } else if (choose3 == 2){
-                        System.out.println("You chose Wizard!!");
-                        System.out.println("Type your name");
-                        String name4 = input.nextLine();
-                        System.out.println("Type your HP between 50-100");
-                        Integer hp5 = Integer.parseInt(input.nextLine());
-                        System.out.println("Type your Mana between 10-50");
-                        Integer stamina5 = Integer.parseInt(input.nextLine());
-                        System.out.println("Type your Intelligence between 1-50");
-                        Integer intelligence5 = Integer.parseInt(input.nextLine());
-                        Wizard newWizard3 = new Wizard(name4, hp5, stamina5, intelligence5);
-                        Battle.battleStart(newWizard1, newWizard3);
+                        if (choose3 == 1) {
+                            System.out.println("You chose Warrior!!");
+                            System.out.println("Type your name");
+                            String name3 = input.nextLine();
+                            System.out.println("Type your HP between 100-200");
+                            Integer hp4 = Integer.parseInt(input.nextLine());
+                            System.out.println("Type your Stamina between 10-50");
+                            Integer stamina4 = Integer.parseInt(input.nextLine());
+                            System.out.println("Type your Strength between 1-10");
+                            Integer strength4 = Integer.parseInt(input.nextLine());
+                            Warrior newWarrior4 = new Warrior(name3, hp4, stamina4, strength4);
+                            Battle.battleStart(newWizard1, newWarrior4);
+                        } else if (choose3 == 2) {
+                            System.out.println("You chose Wizard!!");
+                            System.out.println("Type your name");
+                            String name4 = input.nextLine();
+                            System.out.println("Type your HP between 50-100");
+                            Integer hp5 = Integer.parseInt(input.nextLine());
+                            System.out.println("Type your Mana between 10-50");
+                            Integer stamina5 = Integer.parseInt(input.nextLine());
+                            System.out.println("Type your Intelligence between 1-50");
+                            Integer intelligence5 = Integer.parseInt(input.nextLine());
+                            Wizard newWizard3 = new Wizard(name4, hp5, stamina5, intelligence5);
+                            Battle.battleStart(newWizard1, newWizard3);
+                        }
                     }
                 }
             }
-        }
+
     }
    public static void randomBattleStart() throws IOException {
        Wizard east = new Wizard("East");
@@ -247,12 +250,14 @@ public class Battle {
             if(defense.getHp() <= 0){
                 defense.setAlive(false);
                 defense.setHpInAttack(0);
+                System.out.println(attacker.getName() + " has Won!!\n");
                 writer.write( attacker.getName() + " has Won!!\n");
 
             }
             if(attacker.getHp() <= 0){
                 attacker.setAlive(false);
                 attacker.setHpInAttack(0);
+                System.out.println(defense.getName() + " has Won!!\n");
                 writer.write( defense.getName() + " has Won!!\n");
 
             }
